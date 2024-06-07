@@ -1,1 +1,3204 @@
-{"images": [{"id": 2056, "image_path": "./images/NeoPolyp-Small/00fd197cd955fa095f978455cef3593c.jpg", "mask_path": "./images-mask/NeoPolyp-Small/00fd197cd955fa095f978455cef3593c.jpg", "width": 1280, "height": 977, "type": "sessile"}, {"id": 1583, "image_path": "./images/CVC-ClinicDB/585.jpg", "mask_path": "./images-mask/CVC-ClinicDB/585.jpg", "width": 384, "height": 288, "type": "pedunculated"}, {"id": 425, "image_path": "./images/Kvasir-SEG/cju3xl264ingx0850rcf0rshj.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju3xl264ingx0850rcf0rshj.jpg", "width": 622, "height": 531, "type": "sessile"}, {"id": 2085, "image_path": "./images/NeoPolyp-Small/22af6b2da43f71d4dc3ddad260bfcb44.jpg", "mask_path": "./images-mask/NeoPolyp-Small/22af6b2da43f71d4dc3ddad260bfcb44.jpg", "width": 1280, "height": 995, "type": "sessile"}, {"id": 1419, "image_path": "./images/CVC-ClinicDB/447.jpg", "mask_path": "./images-mask/CVC-ClinicDB/447.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 146, "image_path": "./images/Kvasir-SEG/cju2lberzkdzm09938cl40pog.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2lberzkdzm09938cl40pog.jpg", "width": 605, "height": 528, "type": "sessile"}, {"id": 470, "image_path": "./images/Kvasir-SEG/cju42romflni20817etb9a0fl.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju42romflni20817etb9a0fl.jpg", "width": 622, "height": 528, "type": "pedunculated"}, {"id": 1832, "image_path": "./images/CVC-ColonDB/3.jpg", "mask_path": "./images-mask/CVC-ColonDB/3.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 264, "image_path": "./images/Kvasir-SEG/cju2xwm1s84l50799i60mq0pu.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2xwm1s84l50799i60mq0pu.jpg", "width": 626, "height": 547, "type": "sessile"}, {"id": 1336, "image_path": "./images/CVC-ClinicDB/376.jpg", "mask_path": "./images-mask/CVC-ClinicDB/376.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 868, "image_path": "./images/Kvasir-SEG/cju888fr7nveu0818r9uwtiit.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju888fr7nveu0818r9uwtiit.jpg", "width": 571, "height": 530, "type": "sessile"}, {"id": 834, "image_path": "./images/Kvasir-SEG/cju858eswlepn0871pzvdrhj1.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju858eswlepn0871pzvdrhj1.jpg", "width": 570, "height": 530, "type": "sessile"}, {"id": 1886, "image_path": "./images/CVC-ColonDB/342.jpg", "mask_path": "./images-mask/CVC-ColonDB/342.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1906, "image_path": "./images/CVC-ColonDB/355.jpg", "mask_path": "./images-mask/CVC-ColonDB/355.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1479, "image_path": "./images/CVC-ClinicDB/524.jpg", "mask_path": "./images-mask/CVC-ClinicDB/524.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 124, "image_path": "./images/Kvasir-SEG/cju1hp9i2xu8e0988u2dazk7m.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju1hp9i2xu8e0988u2dazk7m.jpg", "width": 490, "height": 531, "type": "sessile"}, {"id": 423, "image_path": "./images/Kvasir-SEG/cju3xiic0ilzp0850lusrb42j.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju3xiic0ilzp0850lusrb42j.jpg", "width": 571, "height": 530, "type": "sessile"}, {"id": 15, "image_path": "./images/Kvasir-SEG/cju13cgqmnhwn0988yrainhcp.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju13cgqmnhwn0988yrainhcp.jpg", "width": 626, "height": 546, "type": "sessile"}, {"id": 627, "image_path": "./images/Kvasir-SEG/cju6v5ilsv8hk0850rb5sgh6o.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju6v5ilsv8hk0850rb5sgh6o.jpg", "width": 622, "height": 530, "type": "sessile"}, {"id": 1064, "image_path": "./images/CVC-ClinicDB/127.jpg", "mask_path": "./images-mask/CVC-ClinicDB/127.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1215, "image_path": "./images/CVC-ClinicDB/300.jpg", "mask_path": "./images-mask/CVC-ClinicDB/300.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 384, "image_path": "./images/Kvasir-SEG/cju35atpxdjot0855q46aqrd0.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju35atpxdjot0855q46aqrd0.jpg", "width": 626, "height": 546, "type": "sessile"}, {"id": 1262, "image_path": "./images/CVC-ClinicDB/408.jpg", "mask_path": "./images-mask/CVC-ClinicDB/408.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 976, "image_path": "./images/Kvasir-SEG/cju8dqkrqu83i0818ev74qpxq.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju8dqkrqu83i0818ev74qpxq.jpg", "width": 1348, "height": 1070, "type": "sessile"}, {"id": 1892, "image_path": "./images/CVC-ColonDB/359.jpg", "mask_path": "./images-mask/CVC-ColonDB/359.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1119, "image_path": "./images/CVC-ClinicDB/171.jpg", "mask_path": "./images-mask/CVC-ClinicDB/171.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1266, "image_path": "./images/CVC-ClinicDB/400.jpg", "mask_path": "./images-mask/CVC-ClinicDB/400.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 306, "image_path": "./images/Kvasir-SEG/cju306x7w05nb0835cunv799x.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju306x7w05nb0835cunv799x.jpg", "width": 626, "height": 546, "type": "sessile"}, {"id": 1049, "image_path": "./images/CVC-ClinicDB/126.jpg", "mask_path": "./images-mask/CVC-ClinicDB/126.jpg", "width": 384, "height": 288, "type": "pedunculated"}, {"id": 434, "image_path": "./images/Kvasir-SEG/cju3y79ofj3va0871uqfb1mzo.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju3y79ofj3va0871uqfb1mzo.jpg", "width": 598, "height": 530, "type": "sessile"}, {"id": 1471, "image_path": "./images/CVC-ClinicDB/511.jpg", "mask_path": "./images-mask/CVC-ClinicDB/511.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1821, "image_path": "./images/CVC-ColonDB/28.jpg", "mask_path": "./images-mask/CVC-ColonDB/28.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1700, "image_path": "./images/CVC-ColonDB/179.jpg", "mask_path": "./images-mask/CVC-ColonDB/179.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 112, "image_path": "./images/Kvasir-SEG/cju1g20bdwq6u0835e16xugcd.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju1g20bdwq6u0835e16xugcd.jpg", "width": 622, "height": 531, "type": "sessile"}, {"id": 2036, "image_path": "./images/NeoPolyp-Small/00f9b6c911c4aa179344271fa54aa1b2.jpg", "mask_path": "./images-mask/NeoPolyp-Small/00f9b6c911c4aa179344271fa54aa1b2.jpg", "width": 1280, "height": 959, "type": "sessile"}, {"id": 482, "image_path": "./images/Kvasir-SEG/cju43in5fm22c08175rxziqrk.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju43in5fm22c08175rxziqrk.jpg", "width": 616, "height": 530, "type": "sessile"}, {"id": 1421, "image_path": "./images/CVC-ClinicDB/449.jpg", "mask_path": "./images-mask/CVC-ClinicDB/449.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1325, "image_path": "./images/CVC-ClinicDB/351.jpg", "mask_path": "./images-mask/CVC-ClinicDB/351.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1281, "image_path": "./images/CVC-ClinicDB/324.jpg", "mask_path": "./images-mask/CVC-ClinicDB/324.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 455, "image_path": "./images/Kvasir-SEG/cju41nz76lcxu0755cya2qefx.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju41nz76lcxu0755cya2qefx.jpg", "width": 586, "height": 514, "type": "sessile"}, {"id": 1562, "image_path": "./images/CVC-ClinicDB/61.jpg", "mask_path": "./images-mask/CVC-ClinicDB/61.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 971, "image_path": "./images/Kvasir-SEG/cju8dk7eztzup08182yxko5zh.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju8dk7eztzup08182yxko5zh.jpg", "width": 623, "height": 528, "type": "pedunculated"}, {"id": 701, "image_path": "./images/Kvasir-SEG/cju7avvi51iox0817ym55y6tt.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju7avvi51iox0817ym55y6tt.jpg", "width": 626, "height": 546, "type": "sessile"}, {"id": 2055, "image_path": "./images/NeoPolyp-Small/047dc0cbb58aa032554b5eb4fcf0130a.jpg", "mask_path": "./images-mask/NeoPolyp-Small/047dc0cbb58aa032554b5eb4fcf0130a.jpg", "width": 1280, "height": 977, "type": "sessile"}, {"id": 1876, "image_path": "./images/CVC-ColonDB/331.jpg", "mask_path": "./images-mask/CVC-ColonDB/331.jpg", "width": 574, "height": 500, "type": "pedunculated"}, {"id": 211, "image_path": "./images/Kvasir-SEG/cju2rz4k434s70855wwx3ddtx.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2rz4k434s70855wwx3ddtx.jpg", "width": 612, "height": 530, "type": "pedunculated"}, {"id": 932, "image_path": "./images/Kvasir-SEG/cju8bj2ssrmlm0871gc2ug2rs.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju8bj2ssrmlm0871gc2ug2rs.jpg", "width": 469, "height": 449, "type": "sessile"}, {"id": 1585, "image_path": "./images/CVC-ClinicDB/83.jpg", "mask_path": "./images-mask/CVC-ClinicDB/83.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1462, "image_path": "./images/CVC-ClinicDB/58.jpg", "mask_path": "./images-mask/CVC-ClinicDB/58.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1765, "image_path": "./images/CVC-ColonDB/240.jpg", "mask_path": "./images-mask/CVC-ColonDB/240.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1497, "image_path": "./images/CVC-ClinicDB/513.jpg", "mask_path": "./images-mask/CVC-ClinicDB/513.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1443, "image_path": "./images/CVC-ClinicDB/525.jpg", "mask_path": "./images-mask/CVC-ClinicDB/525.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 225, "image_path": "./images/Kvasir-SEG/cju2t16vuucaq0835xcpsivn2.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2t16vuucaq0835xcpsivn2.jpg", "width": 622, "height": 531, "type": "sessile"}, {"id": 330, "image_path": "./images/Kvasir-SEG/cju320gyvbch60801v2amdi2g.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju320gyvbch60801v2amdi2g.jpg", "width": 616, "height": 503, "type": "sessile"}, {"id": 1750, "image_path": "./images/CVC-ColonDB/210.jpg", "mask_path": "./images-mask/CVC-ColonDB/210.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1854, "image_path": "./images/CVC-ColonDB/306.jpg", "mask_path": "./images-mask/CVC-ColonDB/306.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1868, "image_path": "./images/CVC-ColonDB/321.jpg", "mask_path": "./images-mask/CVC-ColonDB/321.jpg", "width": 574, "height": 500, "type": "pedunculated"}, {"id": 1820, "image_path": "./images/CVC-ColonDB/268.jpg", "mask_path": "./images-mask/CVC-ColonDB/268.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 786, "image_path": "./images/Kvasir-SEG/cju7f5ghb2r5s0801chwkxxh9.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju7f5ghb2r5s0801chwkxxh9.jpg", "width": 1220, "height": 1010, "type": "sessile"}, {"id": 1218, "image_path": "./images/CVC-ClinicDB/3.jpg", "mask_path": "./images-mask/CVC-ClinicDB/3.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 958, "image_path": "./images/Kvasir-SEG/cju8cdeazsm8h0801jxifmzur.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju8cdeazsm8h0801jxifmzur.jpg", "width": 626, "height": 547, "type": "sessile"}, {"id": 1930, "image_path": "./images/CVC-ColonDB/366.jpg", "mask_path": "./images-mask/CVC-ColonDB/366.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 2026, "image_path": "./images/NeoPolyp-Small/0b9afea6923881bf04350ffd6984cbcc.jpg", "mask_path": "./images-mask/NeoPolyp-Small/0b9afea6923881bf04350ffd6984cbcc.jpg", "width": 1280, "height": 995, "type": "sessile"}, {"id": 744, "image_path": "./images/Kvasir-SEG/cju7dglf226g50987ohbthl19.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju7dglf226g50987ohbthl19.jpg", "width": 621, "height": 528, "type": "sessile"}, {"id": 47, "image_path": "./images/Kvasir-SEG/cju18849rrsgr0988p90hkygb.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju18849rrsgr0988p90hkygb.jpg", "width": 619, "height": 528, "type": "sessile"}, {"id": 1356, "image_path": "./images/CVC-ClinicDB/439.jpg", "mask_path": "./images-mask/CVC-ClinicDB/439.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 147, "image_path": "./images/Kvasir-SEG/cju2lcyfgkf5809932fn9gucn.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2lcyfgkf5809932fn9gucn.jpg", "width": 571, "height": 530, "type": "sessile"}, {"id": 2094, "image_path": "./images/NeoPolyp-Small/195f853af7f8a4df1ec859759b7c8743.jpg", "mask_path": "./images-mask/NeoPolyp-Small/195f853af7f8a4df1ec859759b7c8743.jpg", "width": 1280, "height": 995, "type": "sessile"}, {"id": 936, "image_path": "./images/Kvasir-SEG/cju8bn7m2rmm70817hgxpb1uq.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju8bn7m2rmm70817hgxpb1uq.jpg", "width": 626, "height": 547, "type": "sessile"}, {"id": 1972, "image_path": "./images/CVC-ColonDB/80.jpg", "mask_path": "./images-mask/CVC-ColonDB/80.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 597, "image_path": "./images/Kvasir-SEG/cju5wrrs0m2af0818vmnajbtw.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju5wrrs0m2af0818vmnajbtw.jpg", "width": 626, "height": 547, "type": "sessile"}, {"id": 1394, "image_path": "./images/CVC-ClinicDB/42.jpg", "mask_path": "./images-mask/CVC-ClinicDB/42.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 913, "image_path": "./images/Kvasir-SEG/cju8axq24r4an0755yhv9d4ly.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju8axq24r4an0755yhv9d4ly.jpg", "width": 603, "height": 530, "type": "sessile"}, {"id": 618, "image_path": "./images/Kvasir-SEG/cju5ymyd8mmdc0801ry3by1xr.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju5ymyd8mmdc0801ry3by1xr.jpg", "width": 622, "height": 528, "type": "sessile"}, {"id": 118, "image_path": "./images/Kvasir-SEG/cju1h5w4wxajx0835mc954kxy.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju1h5w4wxajx0835mc954kxy.jpg", "width": 622, "height": 528, "type": "sessile"}, {"id": 1893, "image_path": "./images/CVC-ColonDB/357.jpg", "mask_path": "./images-mask/CVC-ColonDB/357.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 885, "image_path": "./images/Kvasir-SEG/cju88vx2uoocy075531lc63n3.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju88vx2uoocy075531lc63n3.jpg", "width": 596, "height": 508, "type": "sessile"}, {"id": 1467, "image_path": "./images/CVC-ClinicDB/526.jpg", "mask_path": "./images-mask/CVC-ClinicDB/526.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1011, "image_path": "./images/CVC-ClinicDB/112.jpg", "mask_path": "./images-mask/CVC-ClinicDB/112.jpg", "width": 384, "height": 288, "type": "pedunculated"}, {"id": 733, "image_path": "./images/Kvasir-SEG/cju7d7aut2a2p0818z4uxc6cd.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju7d7aut2a2p0818z4uxc6cd.jpg", "width": 621, "height": 530, "type": "sessile"}, {"id": 2032, "image_path": "./images/NeoPolyp-Small/02000f9b6c911c4aa179344271fa54aa.jpg", "mask_path": "./images-mask/NeoPolyp-Small/02000f9b6c911c4aa179344271fa54aa.jpg", "width": 1280, "height": 959, "type": "sessile"}, {"id": 1941, "image_path": "./images/CVC-ColonDB/47.jpg", "mask_path": "./images-mask/CVC-ColonDB/47.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1057, "image_path": "./images/CVC-ClinicDB/108.jpg", "mask_path": "./images-mask/CVC-ClinicDB/108.jpg", "width": 384, "height": 288, "type": "pedunculated"}, {"id": 473, "image_path": "./images/Kvasir-SEG/cju42wamblrqn098798r2yyok.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju42wamblrqn098798r2yyok.jpg", "width": 621, "height": 547, "type": "sessile"}, {"id": 295, "image_path": "./images/Kvasir-SEG/cju2zp89k9q1g0855k1x0f1xa.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2zp89k9q1g0855k1x0f1xa.jpg", "width": 622, "height": 530, "type": "sessile"}, {"id": 1005, "image_path": "./images/CVC-ClinicDB/149.jpg", "mask_path": "./images-mask/CVC-ClinicDB/149.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 2045, "image_path": "./images/NeoPolyp-Small/0ebce6347c491b37c8c2e5a64a8bd16f.jpg", "mask_path": "./images-mask/NeoPolyp-Small/0ebce6347c491b37c8c2e5a64a8bd16f.jpg", "width": 1280, "height": 995, "type": "sessile"}, {"id": 311, "image_path": "./images/Kvasir-SEG/cju30gxjq0djk0988jytm49rs.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju30gxjq0djk0988jytm49rs.jpg", "width": 622, "height": 530, "type": "sessile"}, {"id": 558, "image_path": "./images/Kvasir-SEG/cju5ktjwofed70817eg58ef7u.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju5ktjwofed70817eg58ef7u.jpg", "width": 625, "height": 547, "type": "sessile"}, {"id": 1714, "image_path": "./images/CVC-ColonDB/314.jpg", "mask_path": "./images-mask/CVC-ColonDB/314.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1237, "image_path": "./images/CVC-ClinicDB/294.jpg", "mask_path": "./images-mask/CVC-ClinicDB/294.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 204, "image_path": "./images/Kvasir-SEG/cju2rmd2rsw9g09888hh1efu0.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2rmd2rsw9g09888hh1efu0.jpg", "width": 570, "height": 531, "type": "sessile"}, {"id": 783, "image_path": "./images/Kvasir-SEG/cju7ezs7g2mxm098787atbran.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju7ezs7g2mxm098787atbran.jpg", "width": 622, "height": 530, "type": "sessile"}, {"id": 1274, "image_path": "./images/CVC-ClinicDB/323.jpg", "mask_path": "./images-mask/CVC-ClinicDB/323.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 952, "image_path": "./images/Kvasir-SEG/cju8c6hnxsdvr0801wn0vrsa6.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju8c6hnxsdvr0801wn0vrsa6.jpg", "width": 617, "height": 531, "type": "sessile"}, {"id": 296, "image_path": "./images/Kvasir-SEG/cju2zpw4q9vzr0801p0lysjdl.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2zpw4q9vzr0801p0lysjdl.jpg", "width": 605, "height": 546, "type": "sessile"}, {"id": 349, "image_path": "./images/Kvasir-SEG/cju334jzo261t0835yqudnfs1.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju334jzo261t0835yqudnfs1.jpg", "width": 623, "height": 528, "type": "sessile"}, {"id": 1361, "image_path": "./images/CVC-ClinicDB/457.jpg", "mask_path": "./images-mask/CVC-ClinicDB/457.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1581, "image_path": "./images/CVC-ClinicDB/59.jpg", "mask_path": "./images-mask/CVC-ClinicDB/59.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1950, "image_path": "./images/CVC-ColonDB/65.jpg", "mask_path": "./images-mask/CVC-ColonDB/65.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1234, "image_path": "./images/CVC-ClinicDB/311.jpg", "mask_path": "./images-mask/CVC-ClinicDB/311.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1579, "image_path": "./images/CVC-ClinicDB/94.jpg", "mask_path": "./images-mask/CVC-ClinicDB/94.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1866, "image_path": "./images/CVC-ColonDB/327.jpg", "mask_path": "./images-mask/CVC-ColonDB/327.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1637, "image_path": "./images/CVC-ColonDB/113.jpg", "mask_path": "./images-mask/CVC-ColonDB/113.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1838, "image_path": "./images/CVC-ColonDB/293.jpg", "mask_path": "./images-mask/CVC-ColonDB/293.jpg", "width": 574, "height": 500, "type": "pedunculated"}, {"id": 259, "image_path": "./images/Kvasir-SEG/cju2xd75m82720801q4s4ik3n.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2xd75m82720801q4s4ik3n.jpg", "width": 1220, "height": 1011, "type": "sessile"}, {"id": 788, "image_path": "./images/Kvasir-SEG/cju7f900s2o0k08175gl1giid.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju7f900s2o0k08175gl1giid.jpg", "width": 622, "height": 529, "type": "pedunculated"}, {"id": 1120, "image_path": "./images/CVC-ClinicDB/189.jpg", "mask_path": "./images-mask/CVC-ClinicDB/189.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 657, "image_path": "./images/Kvasir-SEG/cju6z600qwh4z081700qimgl9.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju6z600qwh4z081700qimgl9.jpg", "width": 612, "height": 530, "type": "sessile"}, {"id": 881, "image_path": "./images/Kvasir-SEG/cju88rl5eo94l0850kf5wtrm1.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju88rl5eo94l0850kf5wtrm1.jpg", "width": 590, "height": 530, "type": "sessile"}, {"id": 180, "image_path": "./images/Kvasir-SEG/cju2pkwt3r8b90988v2ywq1px.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2pkwt3r8b90988v2ywq1px.jpg", "width": 622, "height": 530, "type": "sessile"}, {"id": 304, "image_path": "./images/Kvasir-SEG/cju303j5r062k098835zxfds5.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju303j5r062k098835zxfds5.jpg", "width": 626, "height": 546, "type": "sessile"}, {"id": 422, "image_path": "./images/Kvasir-SEG/cju3xhpvvimda0987ygrpzni2.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju3xhpvvimda0987ygrpzni2.jpg", "width": 622, "height": 530, "type": "sessile"}, {"id": 477, "image_path": "./images/Kvasir-SEG/cju43b8daly4408170e5ev06g.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju43b8daly4408170e5ev06g.jpg", "width": 600, "height": 531, "type": "sessile"}, {"id": 322, "image_path": "./images/Kvasir-SEG/cju30ywtc0oar0835bp2en7ec.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju30ywtc0oar0835bp2en7ec.jpg", "width": 1348, "height": 1062, "type": "sessile"}, {"id": 1790, "image_path": "./images/CVC-ColonDB/253.jpg", "mask_path": "./images-mask/CVC-ColonDB/253.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 111, "image_path": "./images/Kvasir-SEG/cju1fyb1d69et0878muzdak9u.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju1fyb1d69et0878muzdak9u.jpg", "width": 622, "height": 528, "type": "sessile"}, {"id": 875, "image_path": "./images/Kvasir-SEG/cju88k75inzyb0850ccv5x3vk.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju88k75inzyb0850ccv5x3vk.jpg", "width": 549, "height": 531, "type": "sessile"}, {"id": 825, "image_path": "./images/Kvasir-SEG/cju84dsvaklpx098750hp83x4.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju84dsvaklpx098750hp83x4.jpg", "width": 570, "height": 530, "type": "sessile"}, {"id": 1038, "image_path": "./images/CVC-ClinicDB/117.jpg", "mask_path": "./images-mask/CVC-ClinicDB/117.jpg", "width": 384, "height": 288, "type": "pedunculated"}, {"id": 316, "image_path": "./images/Kvasir-SEG/cju30mm25a53s0799qa5wiqe8.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju30mm25a53s0799qa5wiqe8.jpg", "width": 622, "height": 529, "type": "sessile"}, {"id": 1702, "image_path": "./images/CVC-ColonDB/177.jpg", "mask_path": "./images-mask/CVC-ColonDB/177.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1399, "image_path": "./images/CVC-ClinicDB/418.jpg", "mask_path": "./images-mask/CVC-ClinicDB/418.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1814, "image_path": "./images/CVC-ColonDB/272.jpg", "mask_path": "./images-mask/CVC-ColonDB/272.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 895, "image_path": "./images/Kvasir-SEG/cju8a2itsq4dv0755ntlovpxe.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju8a2itsq4dv0755ntlovpxe.jpg", "width": 582, "height": 531, "type": "sessile"}, {"id": 1252, "image_path": "./images/CVC-ClinicDB/404.jpg", "mask_path": "./images-mask/CVC-ClinicDB/404.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1034, "image_path": "./images/CVC-ClinicDB/134.jpg", "mask_path": "./images-mask/CVC-ClinicDB/134.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 457, "image_path": "./images/Kvasir-SEG/cju41r6v2lcww0871ps8k8pf5.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju41r6v2lcww0871ps8k8pf5.jpg", "width": 594, "height": 529, "type": "pedunculated"}, {"id": 224, "image_path": "./images/Kvasir-SEG/cju2syxa93yw40799x2iuwabz.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2syxa93yw40799x2iuwabz.jpg", "width": 602, "height": 474, "type": "sessile"}, {"id": 778, "image_path": "./images/Kvasir-SEG/cju7eueum2oqn0850rodmx8zo.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju7eueum2oqn0850rodmx8zo.jpg", "width": 562, "height": 530, "type": "sessile"}, {"id": 591, "image_path": "./images/Kvasir-SEG/cju5wkonqlrl409877y8zvnub.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju5wkonqlrl409877y8zvnub.jpg", "width": 627, "height": 547, "type": "pedunculated"}, {"id": 1069, "image_path": "./images/CVC-ClinicDB/129.jpg", "mask_path": "./images-mask/CVC-ClinicDB/129.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1732, "image_path": "./images/CVC-ColonDB/20.jpg", "mask_path": "./images-mask/CVC-ColonDB/20.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1028, "image_path": "./images/CVC-ClinicDB/148.jpg", "mask_path": "./images-mask/CVC-ClinicDB/148.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 541, "image_path": "./images/Kvasir-SEG/cju5hjxaae3i40850h5z2laf5.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju5hjxaae3i40850h5z2laf5.jpg", "width": 622, "height": 530, "type": "pedunculated"}, {"id": 1178, "image_path": "./images/CVC-ClinicDB/251.jpg", "mask_path": "./images-mask/CVC-ClinicDB/251.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 531, "image_path": "./images/Kvasir-SEG/cju5fi0yxd3ei0801v7u0yudn.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju5fi0yxd3ei0801v7u0yudn.jpg", "width": 626, "height": 547, "type": "sessile"}, {"id": 278, "image_path": "./images/Kvasir-SEG/cju2yv4imv6cz099314jveiib.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2yv4imv6cz099314jveiib.jpg", "width": 621, "height": 529, "type": "sessile"}, {"id": 93, "image_path": "./images/Kvasir-SEG/cju1euant5l960878iqj5vvto.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju1euant5l960878iqj5vvto.jpg", "width": 622, "height": 531, "type": "pedunculated"}, {"id": 302, "image_path": "./images/Kvasir-SEG/cju300m3s04fg0988uzupuf7z.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju300m3s04fg0988uzupuf7z.jpg", "width": 622, "height": 529, "type": "sessile"}, {"id": 318, "image_path": "./images/Kvasir-SEG/cju30ov1oah920801mi8thuyg.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju30ov1oah920801mi8thuyg.jpg", "width": 571, "height": 530, "type": "sessile"}, {"id": 1667, "image_path": "./images/CVC-ColonDB/157.jpg", "mask_path": "./images-mask/CVC-ColonDB/157.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 231, "image_path": "./images/Kvasir-SEG/cju2tjrog4jy30878pawyazqc.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2tjrog4jy30878pawyazqc.jpg", "width": 622, "height": 530, "type": "sessile"}, {"id": 149, "image_path": "./images/Kvasir-SEG/cju2lyynuymli0855g7fxgbhe.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2lyynuymli0855g7fxgbhe.jpg", "width": 612, "height": 519, "type": "sessile"}, {"id": 623, "image_path": "./images/Kvasir-SEG/cju6uzxk0v83p0801rcwnexdu.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju6uzxk0v83p0801rcwnexdu.jpg", "width": 626, "height": 547, "type": "sessile"}, {"id": 290, "image_path": "./images/Kvasir-SEG/cju2zi4l09f5807991s8do2b2.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2zi4l09f5807991s8do2b2.jpg", "width": 622, "height": 530, "type": "sessile"}, {"id": 902, "image_path": "./images/Kvasir-SEG/cju8aj01yqeqm0850lhdz3xdw.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju8aj01yqeqm0850lhdz3xdw.jpg", "width": 622, "height": 531, "type": "sessile"}, {"id": 1909, "image_path": "./images/CVC-ColonDB/361.jpg", "mask_path": "./images-mask/CVC-ColonDB/361.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 171, "image_path": "./images/Kvasir-SEG/cju2osuru0ki00855txo0n3uu.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2osuru0ki00855txo0n3uu.jpg", "width": 594, "height": 528, "type": "sessile"}, {"id": 1491, "image_path": "./images/CVC-ClinicDB/574.jpg", "mask_path": "./images-mask/CVC-ClinicDB/574.jpg", "width": 384, "height": 288, "type": "pedunculated"}, {"id": 565, "image_path": "./images/Kvasir-SEG/cju5thdbrjp1108715xdfx356.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju5thdbrjp1108715xdfx356.jpg", "width": 622, "height": 530, "type": "sessile"}, {"id": 1424, "image_path": "./images/CVC-ClinicDB/488.jpg", "mask_path": "./images-mask/CVC-ClinicDB/488.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1350, "image_path": "./images/CVC-ClinicDB/413.jpg", "mask_path": "./images-mask/CVC-ClinicDB/413.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 445, "image_path": "./images/Kvasir-SEG/cju40taxlkrho0987smigg0x0.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju40taxlkrho0987smigg0x0.jpg", "width": 622, "height": 393, "type": "sessile"}, {"id": 543, "image_path": "./images/Kvasir-SEG/cju5hqz50e7o90850e0prlpa0.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju5hqz50e7o90850e0prlpa0.jpg", "width": 595, "height": 528, "type": "pedunculated"}, {"id": 2044, "image_path": "./images/NeoPolyp-Small/0aa5f7804c34a359bbb402345d341253.jpg", "mask_path": "./images-mask/NeoPolyp-Small/0aa5f7804c34a359bbb402345d341253.jpg", "width": 1280, "height": 995, "type": "sessile"}, {"id": 530, "image_path": "./images/Kvasir-SEG/cju5fb86jd1jp0755b1ukbhq5.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju5fb86jd1jp0755b1ukbhq5.jpg", "width": 560, "height": 424, "type": "sessile"}, {"id": 872, "image_path": "./images/Kvasir-SEG/cju88fpm4o0tl0871w1i6a4ds.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju88fpm4o0tl0871w1i6a4ds.jpg", "width": 611, "height": 423, "type": "sessile"}, {"id": 1228, "image_path": "./images/CVC-ClinicDB/256.jpg", "mask_path": "./images-mask/CVC-ClinicDB/256.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1147, "image_path": "./images/CVC-ClinicDB/24.jpg", "mask_path": "./images-mask/CVC-ClinicDB/24.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 351, "image_path": "./images/Kvasir-SEG/cju3381d8bz3h07991xtl7ra0.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju3381d8bz3h07991xtl7ra0.jpg", "width": 567, "height": 528, "type": "sessile"}, {"id": 1088, "image_path": "./images/CVC-ClinicDB/172.jpg", "mask_path": "./images-mask/CVC-ClinicDB/172.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 707, "image_path": "./images/Kvasir-SEG/cju7b3f5h1sm40755i572jden.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju7b3f5h1sm40755i572jden.jpg", "width": 622, "height": 531, "type": "sessile"}, {"id": 1231, "image_path": "./images/CVC-ClinicDB/306.jpg", "mask_path": "./images-mask/CVC-ClinicDB/306.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 640, "image_path": "./images/Kvasir-SEG/cju6wll7wvo3y08502pagos8m.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju6wll7wvo3y08502pagos8m.jpg", "width": 568, "height": 497, "type": "sessile"}, {"id": 1195, "image_path": "./images/CVC-ClinicDB/263.jpg", "mask_path": "./images-mask/CVC-ClinicDB/263.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 91, "image_path": "./images/Kvasir-SEG/cju1ejj7dvqfa0835ra184v5m.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju1ejj7dvqfa0835ra184v5m.jpg", "width": 619, "height": 547, "type": "sessile"}, {"id": 539, "image_path": "./images/Kvasir-SEG/cju5h57xedz5h0755mjpc8694.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju5h57xedz5h0755mjpc8694.jpg", "width": 622, "height": 528, "type": "sessile"}, {"id": 998, "image_path": "./images/Kvasir-SEG/ck2bxw18mmz1k0725litqq2mc.jpg", "mask_path": "./images-mask/Kvasir-SEG/ck2bxw18mmz1k0725litqq2mc.jpg", "width": 600, "height": 528, "type": "sessile"}, {"id": 1164, "image_path": "./images/CVC-ClinicDB/266.jpg", "mask_path": "./images-mask/CVC-ClinicDB/266.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1023, "image_path": "./images/CVC-ClinicDB/158.jpg", "mask_path": "./images-mask/CVC-ClinicDB/158.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1478, "image_path": "./images/CVC-ClinicDB/57.jpg", "mask_path": "./images-mask/CVC-ClinicDB/57.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1295, "image_path": "./images/CVC-ClinicDB/387.jpg", "mask_path": "./images-mask/CVC-ClinicDB/387.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1970, "image_path": "./images/CVC-ColonDB/77.jpg", "mask_path": "./images-mask/CVC-ColonDB/77.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1674, "image_path": "./images/CVC-ColonDB/147.jpg", "mask_path": "./images-mask/CVC-ColonDB/147.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1193, "image_path": "./images/CVC-ClinicDB/268.jpg", "mask_path": "./images-mask/CVC-ClinicDB/268.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 2052, "image_path": "./images/NeoPolyp-Small/0a1230b118fa8625605da2023387fd56.jpg", "mask_path": "./images-mask/NeoPolyp-Small/0a1230b118fa8625605da2023387fd56.jpg", "width": 1280, "height": 959, "type": "pedunculated"}, {"id": 74, "image_path": "./images/Kvasir-SEG/cju1cvkfwqrec0993wbp1jlzm.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju1cvkfwqrec0993wbp1jlzm.jpg", "width": 622, "height": 531, "type": "sessile"}, {"id": 1593, "image_path": "./images/CVC-ClinicDB/78.jpg", "mask_path": "./images-mask/CVC-ClinicDB/78.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 926, "image_path": "./images/Kvasir-SEG/cju8bafgqrf4x0818twisk3ea.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju8bafgqrf4x0818twisk3ea.jpg", "width": 531, "height": 530, "type": "sessile"}, {"id": 1013, "image_path": "./images/CVC-ClinicDB/14.jpg", "mask_path": "./images-mask/CVC-ClinicDB/14.jpg", "width": 384, "height": 288, "type": "pedunculated"}, {"id": 253, "image_path": "./images/Kvasir-SEG/cju2wx0gh7fpz0878wwyd9ep8.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2wx0gh7fpz0878wwyd9ep8.jpg", "width": 616, "height": 529, "type": "sessile"}, {"id": 464, "image_path": "./images/Kvasir-SEG/cju42dwedlmk60871jbgu4ehi.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju42dwedlmk60871jbgu4ehi.jpg", "width": 621, "height": 531, "type": "sessile"}, {"id": 1473, "image_path": "./images/CVC-ClinicDB/537.jpg", "mask_path": "./images-mask/CVC-ClinicDB/537.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 933, "image_path": "./images/Kvasir-SEG/cju8bk8oirjhw0817hgkua2w8.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju8bk8oirjhw0817hgkua2w8.jpg", "width": 575, "height": 509, "type": "pedunculated"}, {"id": 977, "image_path": "./images/Kvasir-SEG/cjyzjzssvd8pq0838f4nolj5l.jpg", "mask_path": "./images-mask/Kvasir-SEG/cjyzjzssvd8pq0838f4nolj5l.jpg", "width": 720, "height": 576, "type": "sessile"}, {"id": 205, "image_path": "./images/Kvasir-SEG/cju2rn0hasxri0835nfy3buay.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2rn0hasxri0835nfy3buay.jpg", "width": 622, "height": 531, "type": "sessile"}, {"id": 1490, "image_path": "./images/CVC-ClinicDB/498.jpg", "mask_path": "./images-mask/CVC-ClinicDB/498.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 651, "image_path": "./images/Kvasir-SEG/cju6xmqd9w0250817l5kxfnsk.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju6xmqd9w0250817l5kxfnsk.jpg", "width": 494, "height": 530, "type": "sessile"}, {"id": 1155, "image_path": "./images/CVC-ClinicDB/235.jpg", "mask_path": "./images-mask/CVC-ClinicDB/235.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 810, "image_path": "./images/Kvasir-SEG/cju83qd0yjyht0817ktkfl268.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju83qd0yjyht0817ktkfl268.jpg", "width": 572, "height": 531, "type": "sessile"}, {"id": 1997, "image_path": "./images/NeoPolyp-Small/0676289b3e732adb4c5d1580670d78b9.jpg", "mask_path": "./images-mask/NeoPolyp-Small/0676289b3e732adb4c5d1580670d78b9.jpg", "width": 1280, "height": 995, "type": "sessile"}, {"id": 375, "image_path": "./images/Kvasir-SEG/cju34ymm8d6700799uop0cw33.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju34ymm8d6700799uop0cw33.jpg", "width": 621, "height": 531, "type": "sessile"}, {"id": 1303, "image_path": "./images/CVC-ClinicDB/39.jpg", "mask_path": "./images-mask/CVC-ClinicDB/39.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1368, "image_path": "./images/CVC-ClinicDB/491.jpg", "mask_path": "./images-mask/CVC-ClinicDB/491.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 142, "image_path": "./images/Kvasir-SEG/cju2i8br1vqtd08784u6vmcjk.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2i8br1vqtd08784u6vmcjk.jpg", "width": 622, "height": 531, "type": "sessile"}, {"id": 2088, "image_path": "./images/NeoPolyp-Small/1ffb963e1713a8763b8318ecf467d7ad.jpg", "mask_path": "./images-mask/NeoPolyp-Small/1ffb963e1713a8763b8318ecf467d7ad.jpg", "width": 1280, "height": 977, "type": "sessile"}, {"id": 847, "image_path": "./images/Kvasir-SEG/cju85omszllp30850b6rm9mi3.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju85omszllp30850b6rm9mi3.jpg", "width": 622, "height": 531, "type": "pedunculated"}, {"id": 815, "image_path": "./images/Kvasir-SEG/cju83wwn1k55e0850kw6i2d81.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju83wwn1k55e0850kw6i2d81.jpg", "width": 622, "height": 527, "type": "sessile"}, {"id": 1582, "image_path": "./images/CVC-ClinicDB/586.jpg", "mask_path": "./images-mask/CVC-ClinicDB/586.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1204, "image_path": "./images/CVC-ClinicDB/305.jpg", "mask_path": "./images-mask/CVC-ClinicDB/305.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1382, "image_path": "./images/CVC-ClinicDB/46.jpg", "mask_path": "./images-mask/CVC-ClinicDB/46.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 779, "image_path": "./images/Kvasir-SEG/cju7ev2b12owa08500bpfpwyw.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju7ev2b12owa08500bpfpwyw.jpg", "width": 622, "height": 530, "type": "sessile"}, {"id": 664, "image_path": "./images/Kvasir-SEG/cju77196iyshb0850ycbto50a.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju77196iyshb0850ycbto50a.jpg", "width": 622, "height": 529, "type": "pedunculated"}, {"id": 1721, "image_path": "./images/CVC-ColonDB/350.jpg", "mask_path": "./images-mask/CVC-ColonDB/350.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1977, "image_path": "./images/CVC-ColonDB/83.jpg", "mask_path": "./images-mask/CVC-ColonDB/83.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1476, "image_path": "./images/CVC-ClinicDB/559.jpg", "mask_path": "./images-mask/CVC-ClinicDB/559.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1087, "image_path": "./images/CVC-ClinicDB/220.jpg", "mask_path": "./images-mask/CVC-ClinicDB/220.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 186, "image_path": "./images/Kvasir-SEG/cju2qozsk20cq0855ugrg3cri.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2qozsk20cq0855ugrg3cri.jpg", "width": 626, "height": 546, "type": "pedunculated"}, {"id": 1009, "image_path": "./images/CVC-ClinicDB/161.jpg", "mask_path": "./images-mask/CVC-ClinicDB/161.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 388, "image_path": "./images/Kvasir-SEG/cju35i2e63uxr0835h7zgkg9k.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju35i2e63uxr0835h7zgkg9k.jpg", "width": 614, "height": 531, "type": "sessile"}, {"id": 1282, "image_path": "./images/CVC-ClinicDB/398.jpg", "mask_path": "./images-mask/CVC-ClinicDB/398.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1176, "image_path": "./images/CVC-ClinicDB/284.jpg", "mask_path": "./images-mask/CVC-ClinicDB/284.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1938, "image_path": "./images/CVC-ColonDB/59.jpg", "mask_path": "./images-mask/CVC-ColonDB/59.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1715, "image_path": "./images/CVC-ColonDB/170.jpg", "mask_path": "./images-mask/CVC-ColonDB/170.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1326, "image_path": "./images/CVC-ClinicDB/318.jpg", "mask_path": "./images-mask/CVC-ClinicDB/318.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1187, "image_path": "./images/CVC-ClinicDB/307.jpg", "mask_path": "./images-mask/CVC-ClinicDB/307.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1895, "image_path": "./images/CVC-ColonDB/364.jpg", "mask_path": "./images-mask/CVC-ColonDB/364.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1603, "image_path": "./images/CVC-ClinicDB/605.jpg", "mask_path": "./images-mask/CVC-ClinicDB/605.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 2082, "image_path": "./images/NeoPolyp-Small/1e555525d4f09ce7270bfec57e441680.jpg", "mask_path": "./images-mask/NeoPolyp-Small/1e555525d4f09ce7270bfec57e441680.jpg", "width": 1280, "height": 995, "type": "sessile"}, {"id": 1767, "image_path": "./images/CVC-ColonDB/237.jpg", "mask_path": "./images-mask/CVC-ColonDB/237.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 526, "image_path": "./images/Kvasir-SEG/cju5eyfe9cpk90987laa7tsl3.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju5eyfe9cpk90987laa7tsl3.jpg", "width": 622, "height": 530, "type": "sessile"}, {"id": 1280, "image_path": "./images/CVC-ClinicDB/337.jpg", "mask_path": "./images-mask/CVC-ClinicDB/337.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1267, "image_path": "./images/CVC-ClinicDB/367.jpg", "mask_path": "./images-mask/CVC-ClinicDB/367.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1430, "image_path": "./images/CVC-ClinicDB/459.jpg", "mask_path": "./images-mask/CVC-ClinicDB/459.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1809, "image_path": "./images/CVC-ColonDB/282.jpg", "mask_path": "./images-mask/CVC-ColonDB/282.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1810, "image_path": "./images/CVC-ColonDB/275.jpg", "mask_path": "./images-mask/CVC-ColonDB/275.jpg", "width": 574, "height": 500, "type": "pedunculated"}, {"id": 237, "image_path": "./images/Kvasir-SEG/cju2tvrvm53ws0801a0jfjdxg.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2tvrvm53ws0801a0jfjdxg.jpg", "width": 568, "height": 531, "type": "sessile"}, {"id": 1730, "image_path": "./images/CVC-ColonDB/196.jpg", "mask_path": "./images-mask/CVC-ColonDB/196.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1709, "image_path": "./images/CVC-ColonDB/279.jpg", "mask_path": "./images-mask/CVC-ColonDB/279.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1944, "image_path": "./images/CVC-ColonDB/56.jpg", "mask_path": "./images-mask/CVC-ColonDB/56.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 285, "image_path": "./images/Kvasir-SEG/cju2z9vlp9j0w0801oag91sy9.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2z9vlp9j0w0801oag91sy9.jpg", "width": 622, "height": 531, "type": "sessile"}, {"id": 1016, "image_path": "./images/CVC-ClinicDB/155.jpg", "mask_path": "./images-mask/CVC-ClinicDB/155.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 585, "image_path": "./images/Kvasir-SEG/cju5vzjoslpj708186z2fusmz.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju5vzjoslpj708186z2fusmz.jpg", "width": 622, "height": 496, "type": "sessile"}, {"id": 882, "image_path": "./images/Kvasir-SEG/cju88t4fvokxf07558ymyh281.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju88t4fvokxf07558ymyh281.jpg", "width": 570, "height": 530, "type": "sessile"}, {"id": 1308, "image_path": "./images/CVC-ClinicDB/383.jpg", "mask_path": "./images-mask/CVC-ClinicDB/383.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1208, "image_path": "./images/CVC-ClinicDB/264.jpg", "mask_path": "./images-mask/CVC-ClinicDB/264.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1408, "image_path": "./images/CVC-ClinicDB/432.jpg", "mask_path": "./images-mask/CVC-ClinicDB/432.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 293, "image_path": "./images/Kvasir-SEG/cju2zm0axztpe0988r8s9twjr.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2zm0axztpe0988r8s9twjr.jpg", "width": 623, "height": 528, "type": "sessile"}, {"id": 746, "image_path": "./images/Kvasir-SEG/cju7dizi82h2i0755doucgnt3.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju7dizi82h2i0755doucgnt3.jpg", "width": 622, "height": 529, "type": "sessile"}, {"id": 5, "image_path": "./images/Kvasir-SEG/cju0s2a9ekvms080138tjjpxr.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju0s2a9ekvms080138tjjpxr.jpg", "width": 626, "height": 547, "type": "pedunculated"}, {"id": 1653, "image_path": "./images/CVC-ColonDB/141.jpg", "mask_path": "./images-mask/CVC-ColonDB/141.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 2007, "image_path": "./images/NeoPolyp-Small/03f909df7cd066b37f538abe9de67869.jpg", "mask_path": "./images-mask/NeoPolyp-Small/03f909df7cd066b37f538abe9de67869.jpg", "width": 1280, "height": 995, "type": "sessile"}, {"id": 1771, "image_path": "./images/CVC-ColonDB/222.jpg", "mask_path": "./images-mask/CVC-ColonDB/222.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 490, "image_path": "./images/Kvasir-SEG/cju45n0oxn5vu08500yfrt9jn.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju45n0oxn5vu08500yfrt9jn.jpg", "width": 622, "height": 530, "type": "sessile"}, {"id": 1840, "image_path": "./images/CVC-ColonDB/290.jpg", "mask_path": "./images-mask/CVC-ColonDB/290.jpg", "width": 574, "height": 500, "type": "pedunculated"}, {"id": 373, "image_path": "./images/Kvasir-SEG/cju34uhepd3dd0799hs8782ad.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju34uhepd3dd0799hs8782ad.jpg", "width": 626, "height": 546, "type": "sessile"}, {"id": 1179, "image_path": "./images/CVC-ClinicDB/272.jpg", "mask_path": "./images-mask/CVC-ClinicDB/272.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1586, "image_path": "./images/CVC-ClinicDB/96.jpg", "mask_path": "./images-mask/CVC-ClinicDB/96.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1529, "image_path": "./images/CVC-ClinicDB/532.jpg", "mask_path": "./images-mask/CVC-ClinicDB/532.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1973, "image_path": "./images/CVC-ColonDB/78.jpg", "mask_path": "./images-mask/CVC-ColonDB/78.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1652, "image_path": "./images/CVC-ColonDB/138.jpg", "mask_path": "./images-mask/CVC-ColonDB/138.jpg", "width": 574, "height": 500, "type": "pedunculated"}, {"id": 1800, "image_path": "./images/CVC-ColonDB/249.jpg", "mask_path": "./images-mask/CVC-ColonDB/249.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 828, "image_path": "./images/Kvasir-SEG/cju84hibuktj80871u519o71q.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju84hibuktj80871u519o71q.jpg", "width": 622, "height": 529, "type": "sessile"}, {"id": 58, "image_path": "./images/Kvasir-SEG/cju1bhnfitmge0835ynls0l6b.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju1bhnfitmge0835ynls0l6b.jpg", "width": 622, "height": 531, "type": "sessile"}, {"id": 1934, "image_path": "./images/CVC-ColonDB/6.jpg", "mask_path": "./images-mask/CVC-ColonDB/6.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 156, "image_path": "./images/Kvasir-SEG/cju2nbdpmlmcj0993s1cht0dz.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2nbdpmlmcj0993s1cht0dz.jpg", "width": 584, "height": 530, "type": "sessile"}, {"id": 1097, "image_path": "./images/CVC-ClinicDB/204.jpg", "mask_path": "./images-mask/CVC-ClinicDB/204.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 265, "image_path": "./images/Kvasir-SEG/cju2xyd9vyi7m098831qcucse.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2xyd9vyi7m098831qcucse.jpg", "width": 622, "height": 528, "type": "sessile"}, {"id": 996, "image_path": "./images/Kvasir-SEG/ck2bxqz3evvg20794iiyv5v2m.jpg", "mask_path": "./images-mask/Kvasir-SEG/ck2bxqz3evvg20794iiyv5v2m.jpg", "width": 720, "height": 576, "type": "sessile"}, {"id": 1450, "image_path": "./images/CVC-ClinicDB/499.jpg", "mask_path": "./images-mask/CVC-ClinicDB/499.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 953, "image_path": "./images/Kvasir-SEG/cju8c82iosagu0817l74s4m5g.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju8c82iosagu0817l74s4m5g.jpg", "width": 626, "height": 547, "type": "sessile"}, {"id": 551, "image_path": "./images/Kvasir-SEG/cju5jz5fff8c50871hbe6108f.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju5jz5fff8c50871hbe6108f.jpg", "width": 552, "height": 530, "type": "sessile"}, {"id": 826, "image_path": "./images/Kvasir-SEG/cju84ffdzkrjn08183jh1fxmb.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju84ffdzkrjn08183jh1fxmb.jpg", "width": 616, "height": 529, "type": "sessile"}, {"id": 1117, "image_path": "./images/CVC-ClinicDB/233.jpg", "mask_path": "./images-mask/CVC-ClinicDB/233.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1083, "image_path": "./images/CVC-ClinicDB/216.jpg", "mask_path": "./images-mask/CVC-ClinicDB/216.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1834, "image_path": "./images/CVC-ColonDB/291.jpg", "mask_path": "./images-mask/CVC-ColonDB/291.jpg", "width": 574, "height": 500, "type": "pedunculated"}, {"id": 1782, "image_path": "./images/CVC-ColonDB/258.jpg", "mask_path": "./images-mask/CVC-ColonDB/258.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 220, "image_path": "./images/Kvasir-SEG/cju2srvy5440s0801y1ba9akr.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2srvy5440s0801y1ba9akr.jpg", "width": 622, "height": 528, "type": "sessile"}, {"id": 970, "image_path": "./images/Kvasir-SEG/cju8djdqztu6408506pzhlo18.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju8djdqztu6408506pzhlo18.jpg", "width": 611, "height": 530, "type": "sessile"}, {"id": 1779, "image_path": "./images/CVC-ColonDB/24.jpg", "mask_path": "./images-mask/CVC-ColonDB/24.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 741, "image_path": "./images/Kvasir-SEG/cju7ddtz729960801uazp1knc.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju7ddtz729960801uazp1knc.jpg", "width": 622, "height": 528, "type": "sessile"}, {"id": 1126, "image_path": "./images/CVC-ClinicDB/234.jpg", "mask_path": "./images-mask/CVC-ClinicDB/234.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 2098, "image_path": "./images/NeoPolyp-Small/229fe1bce59ddf92e76900d229db6564.jpg", "mask_path": "./images-mask/NeoPolyp-Small/229fe1bce59ddf92e76900d229db6564.jpg", "width": 1280, "height": 995, "type": "sessile"}, {"id": 912, "image_path": "./images/Kvasir-SEG/cju8aw9n1qyg10801jkjlmors.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju8aw9n1qyg10801jkjlmors.jpg", "width": 622, "height": 530, "type": "sessile"}, {"id": 1539, "image_path": "./images/CVC-ClinicDB/591.jpg", "mask_path": "./images-mask/CVC-ClinicDB/591.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1903, "image_path": "./images/CVC-ColonDB/360.jpg", "mask_path": "./images-mask/CVC-ColonDB/360.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1960, "image_path": "./images/CVC-ColonDB/66.jpg", "mask_path": "./images-mask/CVC-ColonDB/66.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 2043, "image_path": "./images/NeoPolyp-Small/02b296cc5cfd263f1f90be2879923502.jpg", "mask_path": "./images-mask/NeoPolyp-Small/02b296cc5cfd263f1f90be2879923502.jpg", "width": 1280, "height": 995, "type": "sessile"}, {"id": 1483, "image_path": "./images/CVC-ClinicDB/516.jpg", "mask_path": "./images-mask/CVC-ClinicDB/516.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 869, "image_path": "./images/Kvasir-SEG/cju88aq6vo1ij0755c2ey7z7n.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju88aq6vo1ij0755c2ey7z7n.jpg", "width": 570, "height": 530, "type": "sessile"}, {"id": 1018, "image_path": "./images/CVC-ClinicDB/136.jpg", "mask_path": "./images-mask/CVC-ClinicDB/136.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1807, "image_path": "./images/CVC-ColonDB/283.jpg", "mask_path": "./images-mask/CVC-ColonDB/283.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1133, "image_path": "./images/CVC-ClinicDB/245.jpg", "mask_path": "./images-mask/CVC-ClinicDB/245.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1794, "image_path": "./images/CVC-ColonDB/25.jpg", "mask_path": "./images-mask/CVC-ColonDB/25.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1436, "image_path": "./images/CVC-ClinicDB/472.jpg", "mask_path": "./images-mask/CVC-ClinicDB/472.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1945, "image_path": "./images/CVC-ColonDB/55.jpg", "mask_path": "./images-mask/CVC-ColonDB/55.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1835, "image_path": "./images/CVC-ColonDB/287.jpg", "mask_path": "./images-mask/CVC-ColonDB/287.jpg", "width": 574, "height": 500, "type": "pedunculated"}, {"id": 359, "image_path": "./images/Kvasir-SEG/cju33x0f22peh0988g0ln7w5v.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju33x0f22peh0988g0ln7w5v.jpg", "width": 597, "height": 528, "type": "sessile"}, {"id": 1289, "image_path": "./images/CVC-ClinicDB/388.jpg", "mask_path": "./images-mask/CVC-ClinicDB/388.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1244, "image_path": "./images/CVC-ClinicDB/348.jpg", "mask_path": "./images-mask/CVC-ClinicDB/348.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1916, "image_path": "./images/CVC-ColonDB/38.jpg", "mask_path": "./images-mask/CVC-ColonDB/38.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 184, "image_path": "./images/Kvasir-SEG/cju2qh5le1ock0878oahaql7d.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2qh5le1ock0878oahaql7d.jpg", "width": 622, "height": 530, "type": "sessile"}, {"id": 217, "image_path": "./images/Kvasir-SEG/cju2sevf53lkx08558h5bpaig.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2sevf53lkx08558h5bpaig.jpg", "width": 626, "height": 547, "type": "sessile"}, {"id": 336, "image_path": "./images/Kvasir-SEG/cju32csyfblyh080170aa3x5p.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju32csyfblyh080170aa3x5p.jpg", "width": 626, "height": 547, "type": "sessile"}, {"id": 735, "image_path": "./images/Kvasir-SEG/cju7d8m3b2e210755l8fj1yph.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju7d8m3b2e210755l8fj1yph.jpg", "width": 619, "height": 528, "type": "sessile"}, {"id": 1343, "image_path": "./images/CVC-ClinicDB/345.jpg", "mask_path": "./images-mask/CVC-ClinicDB/345.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 944, "image_path": "./images/Kvasir-SEG/cju8bysfgrzkl081786jwac09.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju8bysfgrzkl081786jwac09.jpg", "width": 619, "height": 471, "type": "sessile"}, {"id": 2047, "image_path": "./images/NeoPolyp-Small/0a22abd004c33abf3ae2136cd9dd77ae.jpg", "mask_path": "./images-mask/NeoPolyp-Small/0a22abd004c33abf3ae2136cd9dd77ae.jpg", "width": 1280, "height": 995, "type": "sessile"}, {"id": 1666, "image_path": "./images/CVC-ColonDB/150.jpg", "mask_path": "./images-mask/CVC-ColonDB/150.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1756, "image_path": "./images/CVC-ColonDB/203.jpg", "mask_path": "./images-mask/CVC-ColonDB/203.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1110, "image_path": "./images/CVC-ClinicDB/244.jpg", "mask_path": "./images-mask/CVC-ClinicDB/244.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 480, "image_path": "./images/Kvasir-SEG/cju43gfosm63n08714rpih8pe.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju43gfosm63n08714rpih8pe.jpg", "width": 622, "height": 530, "type": "pedunculated"}, {"id": 621, "image_path": "./images/Kvasir-SEG/cju6ut4l8va6y0755tyw3vfqq.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju6ut4l8va6y0755tyw3vfqq.jpg", "width": 605, "height": 529, "type": "sessile"}, {"id": 67, "image_path": "./images/Kvasir-SEG/cju1cdxvz48hw0801i0fjwcnk.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju1cdxvz48hw0801i0fjwcnk.jpg", "width": 577, "height": 505, "type": "sessile"}, {"id": 1708, "image_path": "./images/CVC-ColonDB/116.jpg", "mask_path": "./images-mask/CVC-ColonDB/116.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1745, "image_path": "./images/CVC-ColonDB/212.jpg", "mask_path": "./images-mask/CVC-ColonDB/212.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 636, "image_path": "./images/Kvasir-SEG/cju6vvxsev9y30987kespucdg.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju6vvxsev9y30987kespucdg.jpg", "width": 620, "height": 475, "type": "sessile"}, {"id": 1080, "image_path": "./images/CVC-ClinicDB/165.jpg", "mask_path": "./images-mask/CVC-ClinicDB/165.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 818, "image_path": "./images/Kvasir-SEG/cju8418jhkf7d0818ga2v0xq0.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju8418jhkf7d0818ga2v0xq0.jpg", "width": 626, "height": 546, "type": "pedunculated"}, {"id": 1019, "image_path": "./images/CVC-ClinicDB/101.jpg", "mask_path": "./images-mask/CVC-ClinicDB/101.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1381, "image_path": "./images/CVC-ClinicDB/434.jpg", "mask_path": "./images-mask/CVC-ClinicDB/434.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 29, "image_path": "./images/Kvasir-SEG/cju16b6ynq8e40988m8vx0xnj.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju16b6ynq8e40988m8vx0xnj.jpg", "width": 571, "height": 530, "type": "sessile"}, {"id": 1029, "image_path": "./images/CVC-ClinicDB/154.jpg", "mask_path": "./images-mask/CVC-ClinicDB/154.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 497, "image_path": "./images/Kvasir-SEG/cju45v0pungu40871acnwtmu5.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju45v0pungu40871acnwtmu5.jpg", "width": 606, "height": 530, "type": "sessile"}, {"id": 94, "image_path": "./images/Kvasir-SEG/cju1euuc65wm00799m4sjdnnn.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju1euuc65wm00799m4sjdnnn.jpg", "width": 570, "height": 530, "type": "sessile"}, {"id": 1964, "image_path": "./images/CVC-ColonDB/70.jpg", "mask_path": "./images-mask/CVC-ColonDB/70.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 115, "image_path": "./images/Kvasir-SEG/cju1gi7jlwyld0835cdf6g6qz.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju1gi7jlwyld0835cdf6g6qz.jpg", "width": 611, "height": 529, "type": "sessile"}, {"id": 203, "image_path": "./images/Kvasir-SEG/cju2rlqdnoz9k0993cpjae3x0.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2rlqdnoz9k0993cpjae3x0.jpg", "width": 592, "height": 531, "type": "sessile"}, {"id": 1374, "image_path": "./images/CVC-ClinicDB/41.jpg", "mask_path": "./images-mask/CVC-ClinicDB/41.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 714, "image_path": "./images/Kvasir-SEG/cju7bduyq1rjf08719giru9ho.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju7bduyq1rjf08719giru9ho.jpg", "width": 622, "height": 508, "type": "sessile"}, {"id": 523, "image_path": "./images/Kvasir-SEG/cju5eq8c8ck690850vix98hv3.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju5eq8c8ck690850vix98hv3.jpg", "width": 622, "height": 530, "type": "sessile"}, {"id": 39, "image_path": "./images/Kvasir-SEG/cju17otoe119u0799nqcbl8n1.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju17otoe119u0799nqcbl8n1.jpg", "width": 519, "height": 511, "type": "sessile"}, {"id": 1512, "image_path": "./images/CVC-ClinicDB/5.jpg", "mask_path": "./images-mask/CVC-ClinicDB/5.jpg", "width": 384, "height": 288, "type": "pedunculated"}, {"id": 1321, "image_path": "./images/CVC-ClinicDB/370.jpg", "mask_path": "./images-mask/CVC-ClinicDB/370.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1020, "image_path": "./images/CVC-ClinicDB/128.jpg", "mask_path": "./images-mask/CVC-ClinicDB/128.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 90, "image_path": "./images/Kvasir-SEG/cju1egx9pvz2n0988eoy8jp23.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju1egx9pvz2n0988eoy8jp23.jpg", "width": 622, "height": 529, "type": "sessile"}, {"id": 511, "image_path": "./images/Kvasir-SEG/cju5ca9hcatkc0801jzwe7tfx.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju5ca9hcatkc0801jzwe7tfx.jpg", "width": 626, "height": 546, "type": "sessile"}, {"id": 1570, "image_path": "./images/CVC-ClinicDB/598.jpg", "mask_path": "./images-mask/CVC-ClinicDB/598.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 991, "image_path": "./images/Kvasir-SEG/ck2395w2mb4vu07480otsu6tw.jpg", "mask_path": "./images-mask/Kvasir-SEG/ck2395w2mb4vu07480otsu6tw.jpg", "width": 720, "height": 576, "type": "sessile"}, {"id": 1380, "image_path": "./images/CVC-ClinicDB/446.jpg", "mask_path": "./images-mask/CVC-ClinicDB/446.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 590, "image_path": "./images/Kvasir-SEG/cju5wj0faly5008187n6530af.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju5wj0faly5008187n6530af.jpg", "width": 570, "height": 530, "type": "sessile"}, {"id": 2092, "image_path": "./images/NeoPolyp-Small/1b9298e11bb07c70f3701ae6bcec5dd8.jpg", "mask_path": "./images-mask/NeoPolyp-Small/1b9298e11bb07c70f3701ae6bcec5dd8.jpg", "width": 1280, "height": 977, "type": "sessile"}, {"id": 1257, "image_path": "./images/CVC-ClinicDB/402.jpg", "mask_path": "./images-mask/CVC-ClinicDB/402.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 303, "image_path": "./images/Kvasir-SEG/cju302fqq9spc0878rrygyzzz.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju302fqq9spc0878rrygyzzz.jpg", "width": 592, "height": 528, "type": "pedunculated"}, {"id": 615, "image_path": "./images/Kvasir-SEG/cju5yhgznmkzb0801cji2vi8j.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju5yhgznmkzb0801cji2vi8j.jpg", "width": 568, "height": 529, "type": "sessile"}, {"id": 1264, "image_path": "./images/CVC-ClinicDB/352.jpg", "mask_path": "./images-mask/CVC-ClinicDB/352.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1001, "image_path": "./images/CVC-ClinicDB/133.jpg", "mask_path": "./images-mask/CVC-ClinicDB/133.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 230, "image_path": "./images/Kvasir-SEG/cju2ti1du4idn0878giuozonw.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2ti1du4idn0878giuozonw.jpg", "width": 571, "height": 530, "type": "sessile"}, {"id": 1774, "image_path": "./images/CVC-ColonDB/223.jpg", "mask_path": "./images-mask/CVC-ColonDB/223.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1656, "image_path": "./images/CVC-ColonDB/142.jpg", "mask_path": "./images-mask/CVC-ColonDB/142.jpg", "width": 574, "height": 500, "type": "pedunculated"}, {"id": 1165, "image_path": "./images/CVC-ClinicDB/254.jpg", "mask_path": "./images-mask/CVC-ClinicDB/254.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 430, "image_path": "./images/Kvasir-SEG/cju3xzvnzj0hd0755xprz39nj.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju3xzvnzj0hd0755xprz39nj.jpg", "width": 625, "height": 513, "type": "sessile"}, {"id": 488, "image_path": "./images/Kvasir-SEG/cju45jpvfn6c809873pv1i34s.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju45jpvfn6c809873pv1i34s.jpg", "width": 593, "height": 530, "type": "sessile"}, {"id": 808, "image_path": "./images/Kvasir-SEG/cju83mki1jv5w0817kubxm31r.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju83mki1jv5w0817kubxm31r.jpg", "width": 625, "height": 547, "type": "pedunculated"}, {"id": 724, "image_path": "./images/Kvasir-SEG/cju7ctvqn25dy08186g442m1r.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju7ctvqn25dy08186g442m1r.jpg", "width": 622, "height": 531, "type": "pedunculated"}, {"id": 1158, "image_path": "./images/CVC-ClinicDB/217.jpg", "mask_path": "./images-mask/CVC-ClinicDB/217.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 95, "image_path": "./images/Kvasir-SEG/cju1ewnoh5z030855vpex9uzt.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju1ewnoh5z030855vpex9uzt.jpg", "width": 622, "height": 529, "type": "sessile"}, {"id": 1268, "image_path": "./images/CVC-ClinicDB/374.jpg", "mask_path": "./images-mask/CVC-ClinicDB/374.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 568, "image_path": "./images/Kvasir-SEG/cju5u8gz4kj5b07552e2wpkwp.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju5u8gz4kj5b07552e2wpkwp.jpg", "width": 571, "height": 531, "type": "sessile"}, {"id": 428, "image_path": "./images/Kvasir-SEG/cju3xvoo2iqlc0817eku2r3wl.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju3xvoo2iqlc0817eku2r3wl.jpg", "width": 446, "height": 530, "type": "sessile"}, {"id": 1617, "image_path": "./images/CVC-ColonDB/109.jpg", "mask_path": "./images-mask/CVC-ColonDB/109.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 890, "image_path": "./images/Kvasir-SEG/cju892fesoq2g0801n0e0jyia.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju892fesoq2g0801n0e0jyia.jpg", "width": 589, "height": 546, "type": "sessile"}, {"id": 1573, "image_path": "./images/CVC-ClinicDB/7.jpg", "mask_path": "./images-mask/CVC-ClinicDB/7.jpg", "width": 384, "height": 288, "type": "pedunculated"}, {"id": 1741, "image_path": "./images/CVC-ColonDB/214.jpg", "mask_path": "./images-mask/CVC-ColonDB/214.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1053, "image_path": "./images/CVC-ClinicDB/143.jpg", "mask_path": "./images-mask/CVC-ClinicDB/143.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1454, "image_path": "./images/CVC-ClinicDB/519.jpg", "mask_path": "./images-mask/CVC-ClinicDB/519.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 698, "image_path": "./images/Kvasir-SEG/cju7aqkue1i2k09879uzcpt8r.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju7aqkue1i2k09879uzcpt8r.jpg", "width": 621, "height": 530, "type": "sessile"}, {"id": 1598, "image_path": "./images/CVC-ClinicDB/582.jpg", "mask_path": "./images-mask/CVC-ClinicDB/582.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 333, "image_path": "./images/Kvasir-SEG/cju326h4v1gxw08352px40p7r.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju326h4v1gxw08352px40p7r.jpg", "width": 616, "height": 528, "type": "sessile"}, {"id": 577, "image_path": "./images/Kvasir-SEG/cju5vbo6jldrt0871jf6f1700.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju5vbo6jldrt0871jf6f1700.jpg", "width": 619, "height": 530, "type": "sessile"}, {"id": 86, "image_path": "./images/Kvasir-SEG/cju1dq3x1vgx109889c7wyirg.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju1dq3x1vgx109889c7wyirg.jpg", "width": 617, "height": 513, "type": "pedunculated"}, {"id": 791, "image_path": "./images/Kvasir-SEG/cju7fbndk2sl608015ravktum.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju7fbndk2sl608015ravktum.jpg", "width": 569, "height": 530, "type": "sessile"}, {"id": 273, "image_path": "./images/Kvasir-SEG/cju2yg5ht8i4p087800js8hp4.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2yg5ht8i4p087800js8hp4.jpg", "width": 626, "height": 546, "type": "sessile"}, {"id": 1050, "image_path": "./images/CVC-ClinicDB/137.jpg", "mask_path": "./images-mask/CVC-ClinicDB/137.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 1956, "image_path": "./images/CVC-ColonDB/72.jpg", "mask_path": "./images-mask/CVC-ColonDB/72.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 899, "image_path": "./images/Kvasir-SEG/cju8abobpqbir08189u01huru.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju8abobpqbir08189u01huru.jpg", "width": 626, "height": 547, "type": "sessile"}, {"id": 448, "image_path": "./images/Kvasir-SEG/cju40wto5kxwi0755it190f2k.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju40wto5kxwi0755it190f2k.jpg", "width": 1348, "height": 1070, "type": "sessile"}, {"id": 277, "image_path": "./images/Kvasir-SEG/cju2ysg748ru80878sp6j0gm0.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2ysg748ru80878sp6j0gm0.jpg", "width": 572, "height": 547, "type": "sessile"}, {"id": 1162, "image_path": "./images/CVC-ClinicDB/242.jpg", "mask_path": "./images-mask/CVC-ClinicDB/242.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 548, "image_path": "./images/Kvasir-SEG/cju5i39mreass0817au8p22zy.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju5i39mreass0817au8p22zy.jpg", "width": 623, "height": 546, "type": "sessile"}, {"id": 522, "image_path": "./images/Kvasir-SEG/cju5enq1tcn1i0755hnkon787.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju5enq1tcn1i0755hnkon787.jpg", "width": 626, "height": 547, "type": "sessile"}, {"id": 844, "image_path": "./images/Kvasir-SEG/cju85l4yjlops0801fvmnwptf.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju85l4yjlops0801fvmnwptf.jpg", "width": 570, "height": 531, "type": "sessile"}, {"id": 1161, "image_path": "./images/CVC-ClinicDB/176.jpg", "mask_path": "./images-mask/CVC-ClinicDB/176.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 2080, "image_path": "./images/NeoPolyp-Small/117c6599c6dc55c83a46ce2be9800e6c.jpg", "mask_path": "./images-mask/NeoPolyp-Small/117c6599c6dc55c83a46ce2be9800e6c.jpg", "width": 1280, "height": 995, "type": "sessile"}, {"id": 1096, "image_path": "./images/CVC-ClinicDB/183.jpg", "mask_path": "./images-mask/CVC-ClinicDB/183.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 402, "image_path": "./images/Kvasir-SEG/cju3ua8u0g9rg0801uayhdxhu.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju3ua8u0g9rg0801uayhdxhu.jpg", "width": 622, "height": 530, "type": "sessile"}, {"id": 1056, "image_path": "./images/CVC-ClinicDB/140.jpg", "mask_path": "./images-mask/CVC-ClinicDB/140.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 2009, "image_path": "./images/NeoPolyp-Small/051fc90e85d064f787d4be168d951058.jpg", "mask_path": "./images-mask/NeoPolyp-Small/051fc90e85d064f787d4be168d951058.jpg", "width": 1280, "height": 977, "type": "sessile"}, {"id": 1785, "image_path": "./images/CVC-ColonDB/26.jpg", "mask_path": "./images-mask/CVC-ColonDB/26.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1574, "image_path": "./images/CVC-ClinicDB/85.jpg", "mask_path": "./images-mask/CVC-ClinicDB/85.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 514, "image_path": "./images/Kvasir-SEG/cju5chrxxawka0871qcj171yz.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju5chrxxawka0871qcj171yz.jpg", "width": 601, "height": 528, "type": "sessile"}, {"id": 452, "image_path": "./images/Kvasir-SEG/cju418rckl3ur08012psrx1r1.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju418rckl3ur08012psrx1r1.jpg", "width": 622, "height": 530, "type": "sessile"}, {"id": 301, "image_path": "./images/Kvasir-SEG/cju2zy1e49pqk0878t6ncqn12.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2zy1e49pqk0878t6ncqn12.jpg", "width": 622, "height": 529, "type": "sessile"}, {"id": 245, "image_path": "./images/Kvasir-SEG/cju2uokeg5jm20799xwgsyz89.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2uokeg5jm20799xwgsyz89.jpg", "width": 570, "height": 530, "type": "sessile"}, {"id": 158, "image_path": "./images/Kvasir-SEG/cju2nfnvxzdkd0878399axlco.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2nfnvxzdkd0878399axlco.jpg", "width": 598, "height": 546, "type": "sessile"}, {"id": 720, "image_path": "./images/Kvasir-SEG/cju7cp6dw244p0818gncdol4m.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju7cp6dw244p0818gncdol4m.jpg", "width": 622, "height": 530, "type": "sessile"}, {"id": 1641, "image_path": "./images/CVC-ColonDB/110.jpg", "mask_path": "./images-mask/CVC-ColonDB/110.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1685, "image_path": "./images/CVC-ColonDB/169.jpg", "mask_path": "./images-mask/CVC-ColonDB/169.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1865, "image_path": "./images/CVC-ColonDB/324.jpg", "mask_path": "./images-mask/CVC-ColonDB/324.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1693, "image_path": "./images/CVC-ColonDB/186.jpg", "mask_path": "./images-mask/CVC-ColonDB/186.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1798, "image_path": "./images/CVC-ColonDB/256.jpg", "mask_path": "./images-mask/CVC-ColonDB/256.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 1610, "image_path": "./images/CVC-ClinicDB/590.jpg", "mask_path": "./images-mask/CVC-ClinicDB/590.jpg", "width": 384, "height": 288, "type": "sessile"}, {"id": 238, "image_path": "./images/Kvasir-SEG/cju2txjfzv60w098839dcimys.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2txjfzv60w098839dcimys.jpg", "width": 551, "height": 430, "type": "sessile"}, {"id": 1644, "image_path": "./images/CVC-ColonDB/135.jpg", "mask_path": "./images-mask/CVC-ColonDB/135.jpg", "width": 574, "height": 500, "type": "sessile"}, {"id": 2097, "image_path": "./images/NeoPolyp-Small/2315b4c10e2b0e33fa12bfcd6da15fc6.jpg", "mask_path": "./images-mask/NeoPolyp-Small/2315b4c10e2b0e33fa12bfcd6da15fc6.jpg", "width": 1280, "height": 959, "type": "pedunculated"}, {"id": 2037, "image_path": "./images/NeoPolyp-Small/052600f1f93e952886d1697f8af9b550.jpg", "mask_path": "./images-mask/NeoPolyp-Small/052600f1f93e952886d1697f8af9b550.jpg", "width": 1280, "height": 959, "type": "sessile"}, {"id": 1004, "image_path": "./images/CVC-ClinicDB/106.jpg", "mask_path": "./images-mask/CVC-ClinicDB/106.jpg", "width": 384, "height": 288, "type": "pedunculated"}, {"id": 1542, "image_path": "./images/CVC-ClinicDB/9.jpg", "mask_path": "./images-mask/CVC-ClinicDB/9.jpg", "width": 384, "height": 288, "type": "pedunculated"}, {"id": 160, "image_path": "./images/Kvasir-SEG/cju2nnqrqzp580855z8mhzgd6.jpg", "mask_path": "./images-mask/Kvasir-SEG/cju2nnqrqzp580855z8mhzgd6.jpg", "width": 569, "height": 518, "type": "sessile"}]}
+{
+    "images": [
+        {
+            "id": 2056,
+            "image_path": "./images/NeoPolyp-Small/00fd197cd955fa095f978455cef3593c.jpg",
+            "mask_path": "./images-mask/NeoPolyp-Small/00fd197cd955fa095f978455cef3593c.jpg",
+            "width": 1280,
+            "height": 977,
+            "type": "sessile"
+        },
+        {
+            "id": 1583,
+            "image_path": "./images/CVC-ClinicDB/585.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/585.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "pedunculated"
+        },
+        {
+            "id": 425,
+            "image_path": "./images/Kvasir-SEG/cju3xl264ingx0850rcf0rshj.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju3xl264ingx0850rcf0rshj.jpg",
+            "width": 622,
+            "height": 531,
+            "type": "sessile"
+        },
+        {
+            "id": 2085,
+            "image_path": "./images/NeoPolyp-Small/22af6b2da43f71d4dc3ddad260bfcb44.jpg",
+            "mask_path": "./images-mask/NeoPolyp-Small/22af6b2da43f71d4dc3ddad260bfcb44.jpg",
+            "width": 1280,
+            "height": 995,
+            "type": "sessile"
+        },
+        {
+            "id": 1419,
+            "image_path": "./images/CVC-ClinicDB/447.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/447.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 146,
+            "image_path": "./images/Kvasir-SEG/cju2lberzkdzm09938cl40pog.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2lberzkdzm09938cl40pog.jpg",
+            "width": 605,
+            "height": 528,
+            "type": "sessile"
+        },
+        {
+            "id": 470,
+            "image_path": "./images/Kvasir-SEG/cju42romflni20817etb9a0fl.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju42romflni20817etb9a0fl.jpg",
+            "width": 622,
+            "height": 528,
+            "type": "pedunculated"
+        },
+        {
+            "id": 1832,
+            "image_path": "./images/CVC-ColonDB/3.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/3.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 264,
+            "image_path": "./images/Kvasir-SEG/cju2xwm1s84l50799i60mq0pu.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2xwm1s84l50799i60mq0pu.jpg",
+            "width": 626,
+            "height": 547,
+            "type": "sessile"
+        },
+        {
+            "id": 1336,
+            "image_path": "./images/CVC-ClinicDB/376.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/376.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 868,
+            "image_path": "./images/Kvasir-SEG/cju888fr7nveu0818r9uwtiit.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju888fr7nveu0818r9uwtiit.jpg",
+            "width": 571,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 834,
+            "image_path": "./images/Kvasir-SEG/cju858eswlepn0871pzvdrhj1.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju858eswlepn0871pzvdrhj1.jpg",
+            "width": 570,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 1886,
+            "image_path": "./images/CVC-ColonDB/342.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/342.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1906,
+            "image_path": "./images/CVC-ColonDB/355.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/355.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1479,
+            "image_path": "./images/CVC-ClinicDB/524.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/524.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 124,
+            "image_path": "./images/Kvasir-SEG/cju1hp9i2xu8e0988u2dazk7m.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju1hp9i2xu8e0988u2dazk7m.jpg",
+            "width": 490,
+            "height": 531,
+            "type": "sessile"
+        },
+        {
+            "id": 423,
+            "image_path": "./images/Kvasir-SEG/cju3xiic0ilzp0850lusrb42j.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju3xiic0ilzp0850lusrb42j.jpg",
+            "width": 571,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 15,
+            "image_path": "./images/Kvasir-SEG/cju13cgqmnhwn0988yrainhcp.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju13cgqmnhwn0988yrainhcp.jpg",
+            "width": 626,
+            "height": 546,
+            "type": "sessile"
+        },
+        {
+            "id": 627,
+            "image_path": "./images/Kvasir-SEG/cju6v5ilsv8hk0850rb5sgh6o.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju6v5ilsv8hk0850rb5sgh6o.jpg",
+            "width": 622,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 1064,
+            "image_path": "./images/CVC-ClinicDB/127.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/127.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1215,
+            "image_path": "./images/CVC-ClinicDB/300.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/300.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 384,
+            "image_path": "./images/Kvasir-SEG/cju35atpxdjot0855q46aqrd0.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju35atpxdjot0855q46aqrd0.jpg",
+            "width": 626,
+            "height": 546,
+            "type": "sessile"
+        },
+        {
+            "id": 1262,
+            "image_path": "./images/CVC-ClinicDB/408.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/408.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 976,
+            "image_path": "./images/Kvasir-SEG/cju8dqkrqu83i0818ev74qpxq.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju8dqkrqu83i0818ev74qpxq.jpg",
+            "width": 1348,
+            "height": 1070,
+            "type": "sessile"
+        },
+        {
+            "id": 1892,
+            "image_path": "./images/CVC-ColonDB/359.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/359.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1119,
+            "image_path": "./images/CVC-ClinicDB/171.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/171.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1266,
+            "image_path": "./images/CVC-ClinicDB/400.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/400.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 306,
+            "image_path": "./images/Kvasir-SEG/cju306x7w05nb0835cunv799x.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju306x7w05nb0835cunv799x.jpg",
+            "width": 626,
+            "height": 546,
+            "type": "sessile"
+        },
+        {
+            "id": 1049,
+            "image_path": "./images/CVC-ClinicDB/126.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/126.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "pedunculated"
+        },
+        {
+            "id": 434,
+            "image_path": "./images/Kvasir-SEG/cju3y79ofj3va0871uqfb1mzo.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju3y79ofj3va0871uqfb1mzo.jpg",
+            "width": 598,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 1471,
+            "image_path": "./images/CVC-ClinicDB/511.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/511.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1821,
+            "image_path": "./images/CVC-ColonDB/28.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/28.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1700,
+            "image_path": "./images/CVC-ColonDB/179.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/179.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 112,
+            "image_path": "./images/Kvasir-SEG/cju1g20bdwq6u0835e16xugcd.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju1g20bdwq6u0835e16xugcd.jpg",
+            "width": 622,
+            "height": 531,
+            "type": "sessile"
+        },
+        {
+            "id": 2036,
+            "image_path": "./images/NeoPolyp-Small/00f9b6c911c4aa179344271fa54aa1b2.jpg",
+            "mask_path": "./images-mask/NeoPolyp-Small/00f9b6c911c4aa179344271fa54aa1b2.jpg",
+            "width": 1280,
+            "height": 959,
+            "type": "sessile"
+        },
+        {
+            "id": 482,
+            "image_path": "./images/Kvasir-SEG/cju43in5fm22c08175rxziqrk.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju43in5fm22c08175rxziqrk.jpg",
+            "width": 616,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 1421,
+            "image_path": "./images/CVC-ClinicDB/449.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/449.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1325,
+            "image_path": "./images/CVC-ClinicDB/351.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/351.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1281,
+            "image_path": "./images/CVC-ClinicDB/324.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/324.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 455,
+            "image_path": "./images/Kvasir-SEG/cju41nz76lcxu0755cya2qefx.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju41nz76lcxu0755cya2qefx.jpg",
+            "width": 586,
+            "height": 514,
+            "type": "sessile"
+        },
+        {
+            "id": 1562,
+            "image_path": "./images/CVC-ClinicDB/61.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/61.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 971,
+            "image_path": "./images/Kvasir-SEG/cju8dk7eztzup08182yxko5zh.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju8dk7eztzup08182yxko5zh.jpg",
+            "width": 623,
+            "height": 528,
+            "type": "pedunculated"
+        },
+        {
+            "id": 701,
+            "image_path": "./images/Kvasir-SEG/cju7avvi51iox0817ym55y6tt.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju7avvi51iox0817ym55y6tt.jpg",
+            "width": 626,
+            "height": 546,
+            "type": "sessile"
+        },
+        {
+            "id": 2055,
+            "image_path": "./images/NeoPolyp-Small/047dc0cbb58aa032554b5eb4fcf0130a.jpg",
+            "mask_path": "./images-mask/NeoPolyp-Small/047dc0cbb58aa032554b5eb4fcf0130a.jpg",
+            "width": 1280,
+            "height": 977,
+            "type": "sessile"
+        },
+        {
+            "id": 1876,
+            "image_path": "./images/CVC-ColonDB/331.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/331.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "pedunculated"
+        },
+        {
+            "id": 211,
+            "image_path": "./images/Kvasir-SEG/cju2rz4k434s70855wwx3ddtx.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2rz4k434s70855wwx3ddtx.jpg",
+            "width": 612,
+            "height": 530,
+            "type": "pedunculated"
+        },
+        {
+            "id": 932,
+            "image_path": "./images/Kvasir-SEG/cju8bj2ssrmlm0871gc2ug2rs.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju8bj2ssrmlm0871gc2ug2rs.jpg",
+            "width": 469,
+            "height": 449,
+            "type": "sessile"
+        },
+        {
+            "id": 1585,
+            "image_path": "./images/CVC-ClinicDB/83.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/83.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1462,
+            "image_path": "./images/CVC-ClinicDB/58.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/58.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1765,
+            "image_path": "./images/CVC-ColonDB/240.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/240.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1497,
+            "image_path": "./images/CVC-ClinicDB/513.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/513.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1443,
+            "image_path": "./images/CVC-ClinicDB/525.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/525.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 225,
+            "image_path": "./images/Kvasir-SEG/cju2t16vuucaq0835xcpsivn2.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2t16vuucaq0835xcpsivn2.jpg",
+            "width": 622,
+            "height": 531,
+            "type": "sessile"
+        },
+        {
+            "id": 330,
+            "image_path": "./images/Kvasir-SEG/cju320gyvbch60801v2amdi2g.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju320gyvbch60801v2amdi2g.jpg",
+            "width": 616,
+            "height": 503,
+            "type": "sessile"
+        },
+        {
+            "id": 1750,
+            "image_path": "./images/CVC-ColonDB/210.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/210.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1854,
+            "image_path": "./images/CVC-ColonDB/306.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/306.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1868,
+            "image_path": "./images/CVC-ColonDB/321.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/321.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "pedunculated"
+        },
+        {
+            "id": 1820,
+            "image_path": "./images/CVC-ColonDB/268.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/268.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 786,
+            "image_path": "./images/Kvasir-SEG/cju7f5ghb2r5s0801chwkxxh9.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju7f5ghb2r5s0801chwkxxh9.jpg",
+            "width": 1220,
+            "height": 1010,
+            "type": "sessile"
+        },
+        {
+            "id": 1218,
+            "image_path": "./images/CVC-ClinicDB/3.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/3.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 958,
+            "image_path": "./images/Kvasir-SEG/cju8cdeazsm8h0801jxifmzur.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju8cdeazsm8h0801jxifmzur.jpg",
+            "width": 626,
+            "height": 547,
+            "type": "sessile"
+        },
+        {
+            "id": 1930,
+            "image_path": "./images/CVC-ColonDB/366.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/366.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 2026,
+            "image_path": "./images/NeoPolyp-Small/0b9afea6923881bf04350ffd6984cbcc.jpg",
+            "mask_path": "./images-mask/NeoPolyp-Small/0b9afea6923881bf04350ffd6984cbcc.jpg",
+            "width": 1280,
+            "height": 995,
+            "type": "sessile"
+        },
+        {
+            "id": 744,
+            "image_path": "./images/Kvasir-SEG/cju7dglf226g50987ohbthl19.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju7dglf226g50987ohbthl19.jpg",
+            "width": 621,
+            "height": 528,
+            "type": "sessile"
+        },
+        {
+            "id": 47,
+            "image_path": "./images/Kvasir-SEG/cju18849rrsgr0988p90hkygb.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju18849rrsgr0988p90hkygb.jpg",
+            "width": 619,
+            "height": 528,
+            "type": "sessile"
+        },
+        {
+            "id": 1356,
+            "image_path": "./images/CVC-ClinicDB/439.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/439.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 147,
+            "image_path": "./images/Kvasir-SEG/cju2lcyfgkf5809932fn9gucn.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2lcyfgkf5809932fn9gucn.jpg",
+            "width": 571,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 2094,
+            "image_path": "./images/NeoPolyp-Small/195f853af7f8a4df1ec859759b7c8743.jpg",
+            "mask_path": "./images-mask/NeoPolyp-Small/195f853af7f8a4df1ec859759b7c8743.jpg",
+            "width": 1280,
+            "height": 995,
+            "type": "sessile"
+        },
+        {
+            "id": 936,
+            "image_path": "./images/Kvasir-SEG/cju8bn7m2rmm70817hgxpb1uq.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju8bn7m2rmm70817hgxpb1uq.jpg",
+            "width": 626,
+            "height": 547,
+            "type": "sessile"
+        },
+        {
+            "id": 1972,
+            "image_path": "./images/CVC-ColonDB/80.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/80.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 597,
+            "image_path": "./images/Kvasir-SEG/cju5wrrs0m2af0818vmnajbtw.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju5wrrs0m2af0818vmnajbtw.jpg",
+            "width": 626,
+            "height": 547,
+            "type": "sessile"
+        },
+        {
+            "id": 1394,
+            "image_path": "./images/CVC-ClinicDB/42.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/42.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 913,
+            "image_path": "./images/Kvasir-SEG/cju8axq24r4an0755yhv9d4ly.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju8axq24r4an0755yhv9d4ly.jpg",
+            "width": 603,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 618,
+            "image_path": "./images/Kvasir-SEG/cju5ymyd8mmdc0801ry3by1xr.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju5ymyd8mmdc0801ry3by1xr.jpg",
+            "width": 622,
+            "height": 528,
+            "type": "sessile"
+        },
+        {
+            "id": 118,
+            "image_path": "./images/Kvasir-SEG/cju1h5w4wxajx0835mc954kxy.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju1h5w4wxajx0835mc954kxy.jpg",
+            "width": 622,
+            "height": 528,
+            "type": "sessile"
+        },
+        {
+            "id": 1893,
+            "image_path": "./images/CVC-ColonDB/357.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/357.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 885,
+            "image_path": "./images/Kvasir-SEG/cju88vx2uoocy075531lc63n3.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju88vx2uoocy075531lc63n3.jpg",
+            "width": 596,
+            "height": 508,
+            "type": "sessile"
+        },
+        {
+            "id": 1467,
+            "image_path": "./images/CVC-ClinicDB/526.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/526.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1011,
+            "image_path": "./images/CVC-ClinicDB/112.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/112.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "pedunculated"
+        },
+        {
+            "id": 733,
+            "image_path": "./images/Kvasir-SEG/cju7d7aut2a2p0818z4uxc6cd.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju7d7aut2a2p0818z4uxc6cd.jpg",
+            "width": 621,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 2032,
+            "image_path": "./images/NeoPolyp-Small/02000f9b6c911c4aa179344271fa54aa.jpg",
+            "mask_path": "./images-mask/NeoPolyp-Small/02000f9b6c911c4aa179344271fa54aa.jpg",
+            "width": 1280,
+            "height": 959,
+            "type": "sessile"
+        },
+        {
+            "id": 1941,
+            "image_path": "./images/CVC-ColonDB/47.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/47.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1057,
+            "image_path": "./images/CVC-ClinicDB/108.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/108.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "pedunculated"
+        },
+        {
+            "id": 473,
+            "image_path": "./images/Kvasir-SEG/cju42wamblrqn098798r2yyok.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju42wamblrqn098798r2yyok.jpg",
+            "width": 621,
+            "height": 547,
+            "type": "sessile"
+        },
+        {
+            "id": 295,
+            "image_path": "./images/Kvasir-SEG/cju2zp89k9q1g0855k1x0f1xa.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2zp89k9q1g0855k1x0f1xa.jpg",
+            "width": 622,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 1005,
+            "image_path": "./images/CVC-ClinicDB/149.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/149.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 2045,
+            "image_path": "./images/NeoPolyp-Small/0ebce6347c491b37c8c2e5a64a8bd16f.jpg",
+            "mask_path": "./images-mask/NeoPolyp-Small/0ebce6347c491b37c8c2e5a64a8bd16f.jpg",
+            "width": 1280,
+            "height": 995,
+            "type": "sessile"
+        },
+        {
+            "id": 311,
+            "image_path": "./images/Kvasir-SEG/cju30gxjq0djk0988jytm49rs.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju30gxjq0djk0988jytm49rs.jpg",
+            "width": 622,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 558,
+            "image_path": "./images/Kvasir-SEG/cju5ktjwofed70817eg58ef7u.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju5ktjwofed70817eg58ef7u.jpg",
+            "width": 625,
+            "height": 547,
+            "type": "sessile"
+        },
+        {
+            "id": 1714,
+            "image_path": "./images/CVC-ColonDB/314.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/314.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1237,
+            "image_path": "./images/CVC-ClinicDB/294.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/294.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 204,
+            "image_path": "./images/Kvasir-SEG/cju2rmd2rsw9g09888hh1efu0.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2rmd2rsw9g09888hh1efu0.jpg",
+            "width": 570,
+            "height": 531,
+            "type": "sessile"
+        },
+        {
+            "id": 783,
+            "image_path": "./images/Kvasir-SEG/cju7ezs7g2mxm098787atbran.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju7ezs7g2mxm098787atbran.jpg",
+            "width": 622,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 1274,
+            "image_path": "./images/CVC-ClinicDB/323.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/323.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 952,
+            "image_path": "./images/Kvasir-SEG/cju8c6hnxsdvr0801wn0vrsa6.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju8c6hnxsdvr0801wn0vrsa6.jpg",
+            "width": 617,
+            "height": 531,
+            "type": "sessile"
+        },
+        {
+            "id": 296,
+            "image_path": "./images/Kvasir-SEG/cju2zpw4q9vzr0801p0lysjdl.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2zpw4q9vzr0801p0lysjdl.jpg",
+            "width": 605,
+            "height": 546,
+            "type": "sessile"
+        },
+        {
+            "id": 349,
+            "image_path": "./images/Kvasir-SEG/cju334jzo261t0835yqudnfs1.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju334jzo261t0835yqudnfs1.jpg",
+            "width": 623,
+            "height": 528,
+            "type": "sessile"
+        },
+        {
+            "id": 1361,
+            "image_path": "./images/CVC-ClinicDB/457.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/457.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1581,
+            "image_path": "./images/CVC-ClinicDB/59.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/59.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1950,
+            "image_path": "./images/CVC-ColonDB/65.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/65.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1234,
+            "image_path": "./images/CVC-ClinicDB/311.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/311.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1579,
+            "image_path": "./images/CVC-ClinicDB/94.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/94.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1866,
+            "image_path": "./images/CVC-ColonDB/327.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/327.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1637,
+            "image_path": "./images/CVC-ColonDB/113.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/113.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1838,
+            "image_path": "./images/CVC-ColonDB/293.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/293.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "pedunculated"
+        },
+        {
+            "id": 259,
+            "image_path": "./images/Kvasir-SEG/cju2xd75m82720801q4s4ik3n.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2xd75m82720801q4s4ik3n.jpg",
+            "width": 1220,
+            "height": 1011,
+            "type": "sessile"
+        },
+        {
+            "id": 788,
+            "image_path": "./images/Kvasir-SEG/cju7f900s2o0k08175gl1giid.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju7f900s2o0k08175gl1giid.jpg",
+            "width": 622,
+            "height": 529,
+            "type": "pedunculated"
+        },
+        {
+            "id": 1120,
+            "image_path": "./images/CVC-ClinicDB/189.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/189.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 657,
+            "image_path": "./images/Kvasir-SEG/cju6z600qwh4z081700qimgl9.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju6z600qwh4z081700qimgl9.jpg",
+            "width": 612,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 881,
+            "image_path": "./images/Kvasir-SEG/cju88rl5eo94l0850kf5wtrm1.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju88rl5eo94l0850kf5wtrm1.jpg",
+            "width": 590,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 180,
+            "image_path": "./images/Kvasir-SEG/cju2pkwt3r8b90988v2ywq1px.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2pkwt3r8b90988v2ywq1px.jpg",
+            "width": 622,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 304,
+            "image_path": "./images/Kvasir-SEG/cju303j5r062k098835zxfds5.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju303j5r062k098835zxfds5.jpg",
+            "width": 626,
+            "height": 546,
+            "type": "sessile"
+        },
+        {
+            "id": 422,
+            "image_path": "./images/Kvasir-SEG/cju3xhpvvimda0987ygrpzni2.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju3xhpvvimda0987ygrpzni2.jpg",
+            "width": 622,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 477,
+            "image_path": "./images/Kvasir-SEG/cju43b8daly4408170e5ev06g.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju43b8daly4408170e5ev06g.jpg",
+            "width": 600,
+            "height": 531,
+            "type": "sessile"
+        },
+        {
+            "id": 322,
+            "image_path": "./images/Kvasir-SEG/cju30ywtc0oar0835bp2en7ec.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju30ywtc0oar0835bp2en7ec.jpg",
+            "width": 1348,
+            "height": 1062,
+            "type": "sessile"
+        },
+        {
+            "id": 1790,
+            "image_path": "./images/CVC-ColonDB/253.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/253.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 111,
+            "image_path": "./images/Kvasir-SEG/cju1fyb1d69et0878muzdak9u.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju1fyb1d69et0878muzdak9u.jpg",
+            "width": 622,
+            "height": 528,
+            "type": "sessile"
+        },
+        {
+            "id": 875,
+            "image_path": "./images/Kvasir-SEG/cju88k75inzyb0850ccv5x3vk.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju88k75inzyb0850ccv5x3vk.jpg",
+            "width": 549,
+            "height": 531,
+            "type": "sessile"
+        },
+        {
+            "id": 825,
+            "image_path": "./images/Kvasir-SEG/cju84dsvaklpx098750hp83x4.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju84dsvaklpx098750hp83x4.jpg",
+            "width": 570,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 1038,
+            "image_path": "./images/CVC-ClinicDB/117.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/117.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "pedunculated"
+        },
+        {
+            "id": 316,
+            "image_path": "./images/Kvasir-SEG/cju30mm25a53s0799qa5wiqe8.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju30mm25a53s0799qa5wiqe8.jpg",
+            "width": 622,
+            "height": 529,
+            "type": "sessile"
+        },
+        {
+            "id": 1702,
+            "image_path": "./images/CVC-ColonDB/177.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/177.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1399,
+            "image_path": "./images/CVC-ClinicDB/418.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/418.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1814,
+            "image_path": "./images/CVC-ColonDB/272.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/272.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 895,
+            "image_path": "./images/Kvasir-SEG/cju8a2itsq4dv0755ntlovpxe.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju8a2itsq4dv0755ntlovpxe.jpg",
+            "width": 582,
+            "height": 531,
+            "type": "sessile"
+        },
+        {
+            "id": 1252,
+            "image_path": "./images/CVC-ClinicDB/404.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/404.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1034,
+            "image_path": "./images/CVC-ClinicDB/134.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/134.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 457,
+            "image_path": "./images/Kvasir-SEG/cju41r6v2lcww0871ps8k8pf5.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju41r6v2lcww0871ps8k8pf5.jpg",
+            "width": 594,
+            "height": 529,
+            "type": "pedunculated"
+        },
+        {
+            "id": 224,
+            "image_path": "./images/Kvasir-SEG/cju2syxa93yw40799x2iuwabz.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2syxa93yw40799x2iuwabz.jpg",
+            "width": 602,
+            "height": 474,
+            "type": "sessile"
+        },
+        {
+            "id": 778,
+            "image_path": "./images/Kvasir-SEG/cju7eueum2oqn0850rodmx8zo.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju7eueum2oqn0850rodmx8zo.jpg",
+            "width": 562,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 591,
+            "image_path": "./images/Kvasir-SEG/cju5wkonqlrl409877y8zvnub.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju5wkonqlrl409877y8zvnub.jpg",
+            "width": 627,
+            "height": 547,
+            "type": "pedunculated"
+        },
+        {
+            "id": 1069,
+            "image_path": "./images/CVC-ClinicDB/129.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/129.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1732,
+            "image_path": "./images/CVC-ColonDB/20.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/20.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1028,
+            "image_path": "./images/CVC-ClinicDB/148.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/148.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 541,
+            "image_path": "./images/Kvasir-SEG/cju5hjxaae3i40850h5z2laf5.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju5hjxaae3i40850h5z2laf5.jpg",
+            "width": 622,
+            "height": 530,
+            "type": "pedunculated"
+        },
+        {
+            "id": 1178,
+            "image_path": "./images/CVC-ClinicDB/251.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/251.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 531,
+            "image_path": "./images/Kvasir-SEG/cju5fi0yxd3ei0801v7u0yudn.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju5fi0yxd3ei0801v7u0yudn.jpg",
+            "width": 626,
+            "height": 547,
+            "type": "sessile"
+        },
+        {
+            "id": 278,
+            "image_path": "./images/Kvasir-SEG/cju2yv4imv6cz099314jveiib.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2yv4imv6cz099314jveiib.jpg",
+            "width": 621,
+            "height": 529,
+            "type": "sessile"
+        },
+        {
+            "id": 93,
+            "image_path": "./images/Kvasir-SEG/cju1euant5l960878iqj5vvto.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju1euant5l960878iqj5vvto.jpg",
+            "width": 622,
+            "height": 531,
+            "type": "pedunculated"
+        },
+        {
+            "id": 302,
+            "image_path": "./images/Kvasir-SEG/cju300m3s04fg0988uzupuf7z.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju300m3s04fg0988uzupuf7z.jpg",
+            "width": 622,
+            "height": 529,
+            "type": "sessile"
+        },
+        {
+            "id": 318,
+            "image_path": "./images/Kvasir-SEG/cju30ov1oah920801mi8thuyg.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju30ov1oah920801mi8thuyg.jpg",
+            "width": 571,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 1667,
+            "image_path": "./images/CVC-ColonDB/157.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/157.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 231,
+            "image_path": "./images/Kvasir-SEG/cju2tjrog4jy30878pawyazqc.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2tjrog4jy30878pawyazqc.jpg",
+            "width": 622,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 149,
+            "image_path": "./images/Kvasir-SEG/cju2lyynuymli0855g7fxgbhe.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2lyynuymli0855g7fxgbhe.jpg",
+            "width": 612,
+            "height": 519,
+            "type": "sessile"
+        },
+        {
+            "id": 623,
+            "image_path": "./images/Kvasir-SEG/cju6uzxk0v83p0801rcwnexdu.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju6uzxk0v83p0801rcwnexdu.jpg",
+            "width": 626,
+            "height": 547,
+            "type": "sessile"
+        },
+        {
+            "id": 290,
+            "image_path": "./images/Kvasir-SEG/cju2zi4l09f5807991s8do2b2.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2zi4l09f5807991s8do2b2.jpg",
+            "width": 622,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 902,
+            "image_path": "./images/Kvasir-SEG/cju8aj01yqeqm0850lhdz3xdw.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju8aj01yqeqm0850lhdz3xdw.jpg",
+            "width": 622,
+            "height": 531,
+            "type": "sessile"
+        },
+        {
+            "id": 1909,
+            "image_path": "./images/CVC-ColonDB/361.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/361.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 171,
+            "image_path": "./images/Kvasir-SEG/cju2osuru0ki00855txo0n3uu.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2osuru0ki00855txo0n3uu.jpg",
+            "width": 594,
+            "height": 528,
+            "type": "sessile"
+        },
+        {
+            "id": 1491,
+            "image_path": "./images/CVC-ClinicDB/574.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/574.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "pedunculated"
+        },
+        {
+            "id": 565,
+            "image_path": "./images/Kvasir-SEG/cju5thdbrjp1108715xdfx356.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju5thdbrjp1108715xdfx356.jpg",
+            "width": 622,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 1424,
+            "image_path": "./images/CVC-ClinicDB/488.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/488.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1350,
+            "image_path": "./images/CVC-ClinicDB/413.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/413.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 445,
+            "image_path": "./images/Kvasir-SEG/cju40taxlkrho0987smigg0x0.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju40taxlkrho0987smigg0x0.jpg",
+            "width": 622,
+            "height": 393,
+            "type": "sessile"
+        },
+        {
+            "id": 543,
+            "image_path": "./images/Kvasir-SEG/cju5hqz50e7o90850e0prlpa0.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju5hqz50e7o90850e0prlpa0.jpg",
+            "width": 595,
+            "height": 528,
+            "type": "pedunculated"
+        },
+        {
+            "id": 2044,
+            "image_path": "./images/NeoPolyp-Small/0aa5f7804c34a359bbb402345d341253.jpg",
+            "mask_path": "./images-mask/NeoPolyp-Small/0aa5f7804c34a359bbb402345d341253.jpg",
+            "width": 1280,
+            "height": 995,
+            "type": "sessile"
+        },
+        {
+            "id": 530,
+            "image_path": "./images/Kvasir-SEG/cju5fb86jd1jp0755b1ukbhq5.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju5fb86jd1jp0755b1ukbhq5.jpg",
+            "width": 560,
+            "height": 424,
+            "type": "sessile"
+        },
+        {
+            "id": 872,
+            "image_path": "./images/Kvasir-SEG/cju88fpm4o0tl0871w1i6a4ds.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju88fpm4o0tl0871w1i6a4ds.jpg",
+            "width": 611,
+            "height": 423,
+            "type": "sessile"
+        },
+        {
+            "id": 1228,
+            "image_path": "./images/CVC-ClinicDB/256.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/256.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1147,
+            "image_path": "./images/CVC-ClinicDB/24.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/24.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 351,
+            "image_path": "./images/Kvasir-SEG/cju3381d8bz3h07991xtl7ra0.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju3381d8bz3h07991xtl7ra0.jpg",
+            "width": 567,
+            "height": 528,
+            "type": "sessile"
+        },
+        {
+            "id": 1088,
+            "image_path": "./images/CVC-ClinicDB/172.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/172.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 707,
+            "image_path": "./images/Kvasir-SEG/cju7b3f5h1sm40755i572jden.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju7b3f5h1sm40755i572jden.jpg",
+            "width": 622,
+            "height": 531,
+            "type": "sessile"
+        },
+        {
+            "id": 1231,
+            "image_path": "./images/CVC-ClinicDB/306.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/306.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 640,
+            "image_path": "./images/Kvasir-SEG/cju6wll7wvo3y08502pagos8m.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju6wll7wvo3y08502pagos8m.jpg",
+            "width": 568,
+            "height": 497,
+            "type": "sessile"
+        },
+        {
+            "id": 1195,
+            "image_path": "./images/CVC-ClinicDB/263.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/263.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 91,
+            "image_path": "./images/Kvasir-SEG/cju1ejj7dvqfa0835ra184v5m.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju1ejj7dvqfa0835ra184v5m.jpg",
+            "width": 619,
+            "height": 547,
+            "type": "sessile"
+        },
+        {
+            "id": 539,
+            "image_path": "./images/Kvasir-SEG/cju5h57xedz5h0755mjpc8694.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju5h57xedz5h0755mjpc8694.jpg",
+            "width": 622,
+            "height": 528,
+            "type": "sessile"
+        },
+        {
+            "id": 998,
+            "image_path": "./images/Kvasir-SEG/ck2bxw18mmz1k0725litqq2mc.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/ck2bxw18mmz1k0725litqq2mc.jpg",
+            "width": 600,
+            "height": 528,
+            "type": "sessile"
+        },
+        {
+            "id": 1164,
+            "image_path": "./images/CVC-ClinicDB/266.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/266.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1023,
+            "image_path": "./images/CVC-ClinicDB/158.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/158.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1478,
+            "image_path": "./images/CVC-ClinicDB/57.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/57.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1295,
+            "image_path": "./images/CVC-ClinicDB/387.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/387.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1970,
+            "image_path": "./images/CVC-ColonDB/77.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/77.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1674,
+            "image_path": "./images/CVC-ColonDB/147.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/147.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1193,
+            "image_path": "./images/CVC-ClinicDB/268.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/268.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 2052,
+            "image_path": "./images/NeoPolyp-Small/0a1230b118fa8625605da2023387fd56.jpg",
+            "mask_path": "./images-mask/NeoPolyp-Small/0a1230b118fa8625605da2023387fd56.jpg",
+            "width": 1280,
+            "height": 959,
+            "type": "pedunculated"
+        },
+        {
+            "id": 74,
+            "image_path": "./images/Kvasir-SEG/cju1cvkfwqrec0993wbp1jlzm.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju1cvkfwqrec0993wbp1jlzm.jpg",
+            "width": 622,
+            "height": 531,
+            "type": "sessile"
+        },
+        {
+            "id": 1593,
+            "image_path": "./images/CVC-ClinicDB/78.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/78.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 926,
+            "image_path": "./images/Kvasir-SEG/cju8bafgqrf4x0818twisk3ea.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju8bafgqrf4x0818twisk3ea.jpg",
+            "width": 531,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 1013,
+            "image_path": "./images/CVC-ClinicDB/14.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/14.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "pedunculated"
+        },
+        {
+            "id": 253,
+            "image_path": "./images/Kvasir-SEG/cju2wx0gh7fpz0878wwyd9ep8.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2wx0gh7fpz0878wwyd9ep8.jpg",
+            "width": 616,
+            "height": 529,
+            "type": "sessile"
+        },
+        {
+            "id": 464,
+            "image_path": "./images/Kvasir-SEG/cju42dwedlmk60871jbgu4ehi.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju42dwedlmk60871jbgu4ehi.jpg",
+            "width": 621,
+            "height": 531,
+            "type": "sessile"
+        },
+        {
+            "id": 1473,
+            "image_path": "./images/CVC-ClinicDB/537.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/537.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 933,
+            "image_path": "./images/Kvasir-SEG/cju8bk8oirjhw0817hgkua2w8.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju8bk8oirjhw0817hgkua2w8.jpg",
+            "width": 575,
+            "height": 509,
+            "type": "pedunculated"
+        },
+        {
+            "id": 977,
+            "image_path": "./images/Kvasir-SEG/cjyzjzssvd8pq0838f4nolj5l.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cjyzjzssvd8pq0838f4nolj5l.jpg",
+            "width": 720,
+            "height": 576,
+            "type": "sessile"
+        },
+        {
+            "id": 205,
+            "image_path": "./images/Kvasir-SEG/cju2rn0hasxri0835nfy3buay.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2rn0hasxri0835nfy3buay.jpg",
+            "width": 622,
+            "height": 531,
+            "type": "sessile"
+        },
+        {
+            "id": 1490,
+            "image_path": "./images/CVC-ClinicDB/498.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/498.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 651,
+            "image_path": "./images/Kvasir-SEG/cju6xmqd9w0250817l5kxfnsk.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju6xmqd9w0250817l5kxfnsk.jpg",
+            "width": 494,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 1155,
+            "image_path": "./images/CVC-ClinicDB/235.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/235.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 810,
+            "image_path": "./images/Kvasir-SEG/cju83qd0yjyht0817ktkfl268.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju83qd0yjyht0817ktkfl268.jpg",
+            "width": 572,
+            "height": 531,
+            "type": "sessile"
+        },
+        {
+            "id": 1997,
+            "image_path": "./images/NeoPolyp-Small/0676289b3e732adb4c5d1580670d78b9.jpg",
+            "mask_path": "./images-mask/NeoPolyp-Small/0676289b3e732adb4c5d1580670d78b9.jpg",
+            "width": 1280,
+            "height": 995,
+            "type": "sessile"
+        },
+        {
+            "id": 375,
+            "image_path": "./images/Kvasir-SEG/cju34ymm8d6700799uop0cw33.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju34ymm8d6700799uop0cw33.jpg",
+            "width": 621,
+            "height": 531,
+            "type": "sessile"
+        },
+        {
+            "id": 1303,
+            "image_path": "./images/CVC-ClinicDB/39.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/39.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1368,
+            "image_path": "./images/CVC-ClinicDB/491.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/491.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 142,
+            "image_path": "./images/Kvasir-SEG/cju2i8br1vqtd08784u6vmcjk.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2i8br1vqtd08784u6vmcjk.jpg",
+            "width": 622,
+            "height": 531,
+            "type": "sessile"
+        },
+        {
+            "id": 2088,
+            "image_path": "./images/NeoPolyp-Small/1ffb963e1713a8763b8318ecf467d7ad.jpg",
+            "mask_path": "./images-mask/NeoPolyp-Small/1ffb963e1713a8763b8318ecf467d7ad.jpg",
+            "width": 1280,
+            "height": 977,
+            "type": "sessile"
+        },
+        {
+            "id": 847,
+            "image_path": "./images/Kvasir-SEG/cju85omszllp30850b6rm9mi3.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju85omszllp30850b6rm9mi3.jpg",
+            "width": 622,
+            "height": 531,
+            "type": "pedunculated"
+        },
+        {
+            "id": 815,
+            "image_path": "./images/Kvasir-SEG/cju83wwn1k55e0850kw6i2d81.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju83wwn1k55e0850kw6i2d81.jpg",
+            "width": 622,
+            "height": 527,
+            "type": "sessile"
+        },
+        {
+            "id": 1582,
+            "image_path": "./images/CVC-ClinicDB/586.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/586.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1204,
+            "image_path": "./images/CVC-ClinicDB/305.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/305.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1382,
+            "image_path": "./images/CVC-ClinicDB/46.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/46.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 779,
+            "image_path": "./images/Kvasir-SEG/cju7ev2b12owa08500bpfpwyw.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju7ev2b12owa08500bpfpwyw.jpg",
+            "width": 622,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 664,
+            "image_path": "./images/Kvasir-SEG/cju77196iyshb0850ycbto50a.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju77196iyshb0850ycbto50a.jpg",
+            "width": 622,
+            "height": 529,
+            "type": "pedunculated"
+        },
+        {
+            "id": 1721,
+            "image_path": "./images/CVC-ColonDB/350.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/350.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1977,
+            "image_path": "./images/CVC-ColonDB/83.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/83.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1476,
+            "image_path": "./images/CVC-ClinicDB/559.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/559.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1087,
+            "image_path": "./images/CVC-ClinicDB/220.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/220.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 186,
+            "image_path": "./images/Kvasir-SEG/cju2qozsk20cq0855ugrg3cri.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2qozsk20cq0855ugrg3cri.jpg",
+            "width": 626,
+            "height": 546,
+            "type": "pedunculated"
+        },
+        {
+            "id": 1009,
+            "image_path": "./images/CVC-ClinicDB/161.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/161.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 388,
+            "image_path": "./images/Kvasir-SEG/cju35i2e63uxr0835h7zgkg9k.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju35i2e63uxr0835h7zgkg9k.jpg",
+            "width": 614,
+            "height": 531,
+            "type": "sessile"
+        },
+        {
+            "id": 1282,
+            "image_path": "./images/CVC-ClinicDB/398.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/398.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1176,
+            "image_path": "./images/CVC-ClinicDB/284.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/284.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1938,
+            "image_path": "./images/CVC-ColonDB/59.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/59.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1715,
+            "image_path": "./images/CVC-ColonDB/170.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/170.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1326,
+            "image_path": "./images/CVC-ClinicDB/318.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/318.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1187,
+            "image_path": "./images/CVC-ClinicDB/307.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/307.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1895,
+            "image_path": "./images/CVC-ColonDB/364.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/364.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1603,
+            "image_path": "./images/CVC-ClinicDB/605.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/605.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 2082,
+            "image_path": "./images/NeoPolyp-Small/1e555525d4f09ce7270bfec57e441680.jpg",
+            "mask_path": "./images-mask/NeoPolyp-Small/1e555525d4f09ce7270bfec57e441680.jpg",
+            "width": 1280,
+            "height": 995,
+            "type": "sessile"
+        },
+        {
+            "id": 1767,
+            "image_path": "./images/CVC-ColonDB/237.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/237.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 526,
+            "image_path": "./images/Kvasir-SEG/cju5eyfe9cpk90987laa7tsl3.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju5eyfe9cpk90987laa7tsl3.jpg",
+            "width": 622,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 1280,
+            "image_path": "./images/CVC-ClinicDB/337.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/337.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1267,
+            "image_path": "./images/CVC-ClinicDB/367.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/367.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1430,
+            "image_path": "./images/CVC-ClinicDB/459.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/459.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1809,
+            "image_path": "./images/CVC-ColonDB/282.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/282.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1810,
+            "image_path": "./images/CVC-ColonDB/275.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/275.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "pedunculated"
+        },
+        {
+            "id": 237,
+            "image_path": "./images/Kvasir-SEG/cju2tvrvm53ws0801a0jfjdxg.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2tvrvm53ws0801a0jfjdxg.jpg",
+            "width": 568,
+            "height": 531,
+            "type": "sessile"
+        },
+        {
+            "id": 1730,
+            "image_path": "./images/CVC-ColonDB/196.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/196.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1709,
+            "image_path": "./images/CVC-ColonDB/279.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/279.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1944,
+            "image_path": "./images/CVC-ColonDB/56.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/56.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 285,
+            "image_path": "./images/Kvasir-SEG/cju2z9vlp9j0w0801oag91sy9.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2z9vlp9j0w0801oag91sy9.jpg",
+            "width": 622,
+            "height": 531,
+            "type": "sessile"
+        },
+        {
+            "id": 1016,
+            "image_path": "./images/CVC-ClinicDB/155.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/155.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 585,
+            "image_path": "./images/Kvasir-SEG/cju5vzjoslpj708186z2fusmz.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju5vzjoslpj708186z2fusmz.jpg",
+            "width": 622,
+            "height": 496,
+            "type": "sessile"
+        },
+        {
+            "id": 882,
+            "image_path": "./images/Kvasir-SEG/cju88t4fvokxf07558ymyh281.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju88t4fvokxf07558ymyh281.jpg",
+            "width": 570,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 1308,
+            "image_path": "./images/CVC-ClinicDB/383.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/383.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1208,
+            "image_path": "./images/CVC-ClinicDB/264.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/264.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1408,
+            "image_path": "./images/CVC-ClinicDB/432.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/432.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 293,
+            "image_path": "./images/Kvasir-SEG/cju2zm0axztpe0988r8s9twjr.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2zm0axztpe0988r8s9twjr.jpg",
+            "width": 623,
+            "height": 528,
+            "type": "sessile"
+        },
+        {
+            "id": 746,
+            "image_path": "./images/Kvasir-SEG/cju7dizi82h2i0755doucgnt3.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju7dizi82h2i0755doucgnt3.jpg",
+            "width": 622,
+            "height": 529,
+            "type": "sessile"
+        },
+        {
+            "id": 5,
+            "image_path": "./images/Kvasir-SEG/cju0s2a9ekvms080138tjjpxr.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju0s2a9ekvms080138tjjpxr.jpg",
+            "width": 626,
+            "height": 547,
+            "type": "pedunculated"
+        },
+        {
+            "id": 1653,
+            "image_path": "./images/CVC-ColonDB/141.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/141.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 2007,
+            "image_path": "./images/NeoPolyp-Small/03f909df7cd066b37f538abe9de67869.jpg",
+            "mask_path": "./images-mask/NeoPolyp-Small/03f909df7cd066b37f538abe9de67869.jpg",
+            "width": 1280,
+            "height": 995,
+            "type": "sessile"
+        },
+        {
+            "id": 1771,
+            "image_path": "./images/CVC-ColonDB/222.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/222.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 490,
+            "image_path": "./images/Kvasir-SEG/cju45n0oxn5vu08500yfrt9jn.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju45n0oxn5vu08500yfrt9jn.jpg",
+            "width": 622,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 1840,
+            "image_path": "./images/CVC-ColonDB/290.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/290.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "pedunculated"
+        },
+        {
+            "id": 373,
+            "image_path": "./images/Kvasir-SEG/cju34uhepd3dd0799hs8782ad.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju34uhepd3dd0799hs8782ad.jpg",
+            "width": 626,
+            "height": 546,
+            "type": "sessile"
+        },
+        {
+            "id": 1179,
+            "image_path": "./images/CVC-ClinicDB/272.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/272.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1586,
+            "image_path": "./images/CVC-ClinicDB/96.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/96.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1529,
+            "image_path": "./images/CVC-ClinicDB/532.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/532.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1973,
+            "image_path": "./images/CVC-ColonDB/78.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/78.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1652,
+            "image_path": "./images/CVC-ColonDB/138.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/138.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "pedunculated"
+        },
+        {
+            "id": 1800,
+            "image_path": "./images/CVC-ColonDB/249.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/249.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 828,
+            "image_path": "./images/Kvasir-SEG/cju84hibuktj80871u519o71q.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju84hibuktj80871u519o71q.jpg",
+            "width": 622,
+            "height": 529,
+            "type": "sessile"
+        },
+        {
+            "id": 58,
+            "image_path": "./images/Kvasir-SEG/cju1bhnfitmge0835ynls0l6b.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju1bhnfitmge0835ynls0l6b.jpg",
+            "width": 622,
+            "height": 531,
+            "type": "sessile"
+        },
+        {
+            "id": 1934,
+            "image_path": "./images/CVC-ColonDB/6.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/6.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 156,
+            "image_path": "./images/Kvasir-SEG/cju2nbdpmlmcj0993s1cht0dz.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2nbdpmlmcj0993s1cht0dz.jpg",
+            "width": 584,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 1097,
+            "image_path": "./images/CVC-ClinicDB/204.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/204.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 265,
+            "image_path": "./images/Kvasir-SEG/cju2xyd9vyi7m098831qcucse.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2xyd9vyi7m098831qcucse.jpg",
+            "width": 622,
+            "height": 528,
+            "type": "sessile"
+        },
+        {
+            "id": 996,
+            "image_path": "./images/Kvasir-SEG/ck2bxqz3evvg20794iiyv5v2m.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/ck2bxqz3evvg20794iiyv5v2m.jpg",
+            "width": 720,
+            "height": 576,
+            "type": "sessile"
+        },
+        {
+            "id": 1450,
+            "image_path": "./images/CVC-ClinicDB/499.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/499.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 953,
+            "image_path": "./images/Kvasir-SEG/cju8c82iosagu0817l74s4m5g.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju8c82iosagu0817l74s4m5g.jpg",
+            "width": 626,
+            "height": 547,
+            "type": "sessile"
+        },
+        {
+            "id": 551,
+            "image_path": "./images/Kvasir-SEG/cju5jz5fff8c50871hbe6108f.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju5jz5fff8c50871hbe6108f.jpg",
+            "width": 552,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 826,
+            "image_path": "./images/Kvasir-SEG/cju84ffdzkrjn08183jh1fxmb.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju84ffdzkrjn08183jh1fxmb.jpg",
+            "width": 616,
+            "height": 529,
+            "type": "sessile"
+        },
+        {
+            "id": 1117,
+            "image_path": "./images/CVC-ClinicDB/233.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/233.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1083,
+            "image_path": "./images/CVC-ClinicDB/216.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/216.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1834,
+            "image_path": "./images/CVC-ColonDB/291.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/291.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "pedunculated"
+        },
+        {
+            "id": 1782,
+            "image_path": "./images/CVC-ColonDB/258.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/258.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 220,
+            "image_path": "./images/Kvasir-SEG/cju2srvy5440s0801y1ba9akr.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2srvy5440s0801y1ba9akr.jpg",
+            "width": 622,
+            "height": 528,
+            "type": "sessile"
+        },
+        {
+            "id": 970,
+            "image_path": "./images/Kvasir-SEG/cju8djdqztu6408506pzhlo18.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju8djdqztu6408506pzhlo18.jpg",
+            "width": 611,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 1779,
+            "image_path": "./images/CVC-ColonDB/24.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/24.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 741,
+            "image_path": "./images/Kvasir-SEG/cju7ddtz729960801uazp1knc.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju7ddtz729960801uazp1knc.jpg",
+            "width": 622,
+            "height": 528,
+            "type": "sessile"
+        },
+        {
+            "id": 1126,
+            "image_path": "./images/CVC-ClinicDB/234.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/234.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 2098,
+            "image_path": "./images/NeoPolyp-Small/229fe1bce59ddf92e76900d229db6564.jpg",
+            "mask_path": "./images-mask/NeoPolyp-Small/229fe1bce59ddf92e76900d229db6564.jpg",
+            "width": 1280,
+            "height": 995,
+            "type": "sessile"
+        },
+        {
+            "id": 912,
+            "image_path": "./images/Kvasir-SEG/cju8aw9n1qyg10801jkjlmors.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju8aw9n1qyg10801jkjlmors.jpg",
+            "width": 622,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 1539,
+            "image_path": "./images/CVC-ClinicDB/591.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/591.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1903,
+            "image_path": "./images/CVC-ColonDB/360.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/360.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1960,
+            "image_path": "./images/CVC-ColonDB/66.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/66.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 2043,
+            "image_path": "./images/NeoPolyp-Small/02b296cc5cfd263f1f90be2879923502.jpg",
+            "mask_path": "./images-mask/NeoPolyp-Small/02b296cc5cfd263f1f90be2879923502.jpg",
+            "width": 1280,
+            "height": 995,
+            "type": "sessile"
+        },
+        {
+            "id": 1483,
+            "image_path": "./images/CVC-ClinicDB/516.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/516.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 869,
+            "image_path": "./images/Kvasir-SEG/cju88aq6vo1ij0755c2ey7z7n.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju88aq6vo1ij0755c2ey7z7n.jpg",
+            "width": 570,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 1018,
+            "image_path": "./images/CVC-ClinicDB/136.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/136.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1807,
+            "image_path": "./images/CVC-ColonDB/283.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/283.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1133,
+            "image_path": "./images/CVC-ClinicDB/245.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/245.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1794,
+            "image_path": "./images/CVC-ColonDB/25.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/25.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1436,
+            "image_path": "./images/CVC-ClinicDB/472.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/472.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1945,
+            "image_path": "./images/CVC-ColonDB/55.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/55.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1835,
+            "image_path": "./images/CVC-ColonDB/287.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/287.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "pedunculated"
+        },
+        {
+            "id": 359,
+            "image_path": "./images/Kvasir-SEG/cju33x0f22peh0988g0ln7w5v.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju33x0f22peh0988g0ln7w5v.jpg",
+            "width": 597,
+            "height": 528,
+            "type": "sessile"
+        },
+        {
+            "id": 1289,
+            "image_path": "./images/CVC-ClinicDB/388.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/388.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1244,
+            "image_path": "./images/CVC-ClinicDB/348.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/348.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1916,
+            "image_path": "./images/CVC-ColonDB/38.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/38.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 184,
+            "image_path": "./images/Kvasir-SEG/cju2qh5le1ock0878oahaql7d.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2qh5le1ock0878oahaql7d.jpg",
+            "width": 622,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 217,
+            "image_path": "./images/Kvasir-SEG/cju2sevf53lkx08558h5bpaig.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2sevf53lkx08558h5bpaig.jpg",
+            "width": 626,
+            "height": 547,
+            "type": "sessile"
+        },
+        {
+            "id": 336,
+            "image_path": "./images/Kvasir-SEG/cju32csyfblyh080170aa3x5p.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju32csyfblyh080170aa3x5p.jpg",
+            "width": 626,
+            "height": 547,
+            "type": "sessile"
+        },
+        {
+            "id": 735,
+            "image_path": "./images/Kvasir-SEG/cju7d8m3b2e210755l8fj1yph.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju7d8m3b2e210755l8fj1yph.jpg",
+            "width": 619,
+            "height": 528,
+            "type": "sessile"
+        },
+        {
+            "id": 1343,
+            "image_path": "./images/CVC-ClinicDB/345.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/345.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 944,
+            "image_path": "./images/Kvasir-SEG/cju8bysfgrzkl081786jwac09.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju8bysfgrzkl081786jwac09.jpg",
+            "width": 619,
+            "height": 471,
+            "type": "sessile"
+        },
+        {
+            "id": 2047,
+            "image_path": "./images/NeoPolyp-Small/0a22abd004c33abf3ae2136cd9dd77ae.jpg",
+            "mask_path": "./images-mask/NeoPolyp-Small/0a22abd004c33abf3ae2136cd9dd77ae.jpg",
+            "width": 1280,
+            "height": 995,
+            "type": "sessile"
+        },
+        {
+            "id": 1666,
+            "image_path": "./images/CVC-ColonDB/150.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/150.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1756,
+            "image_path": "./images/CVC-ColonDB/203.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/203.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1110,
+            "image_path": "./images/CVC-ClinicDB/244.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/244.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 480,
+            "image_path": "./images/Kvasir-SEG/cju43gfosm63n08714rpih8pe.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju43gfosm63n08714rpih8pe.jpg",
+            "width": 622,
+            "height": 530,
+            "type": "pedunculated"
+        },
+        {
+            "id": 621,
+            "image_path": "./images/Kvasir-SEG/cju6ut4l8va6y0755tyw3vfqq.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju6ut4l8va6y0755tyw3vfqq.jpg",
+            "width": 605,
+            "height": 529,
+            "type": "sessile"
+        },
+        {
+            "id": 67,
+            "image_path": "./images/Kvasir-SEG/cju1cdxvz48hw0801i0fjwcnk.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju1cdxvz48hw0801i0fjwcnk.jpg",
+            "width": 577,
+            "height": 505,
+            "type": "sessile"
+        },
+        {
+            "id": 1708,
+            "image_path": "./images/CVC-ColonDB/116.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/116.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1745,
+            "image_path": "./images/CVC-ColonDB/212.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/212.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 636,
+            "image_path": "./images/Kvasir-SEG/cju6vvxsev9y30987kespucdg.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju6vvxsev9y30987kespucdg.jpg",
+            "width": 620,
+            "height": 475,
+            "type": "sessile"
+        },
+        {
+            "id": 1080,
+            "image_path": "./images/CVC-ClinicDB/165.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/165.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 818,
+            "image_path": "./images/Kvasir-SEG/cju8418jhkf7d0818ga2v0xq0.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju8418jhkf7d0818ga2v0xq0.jpg",
+            "width": 626,
+            "height": 546,
+            "type": "pedunculated"
+        },
+        {
+            "id": 1019,
+            "image_path": "./images/CVC-ClinicDB/101.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/101.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1381,
+            "image_path": "./images/CVC-ClinicDB/434.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/434.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 29,
+            "image_path": "./images/Kvasir-SEG/cju16b6ynq8e40988m8vx0xnj.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju16b6ynq8e40988m8vx0xnj.jpg",
+            "width": 571,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 1029,
+            "image_path": "./images/CVC-ClinicDB/154.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/154.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 497,
+            "image_path": "./images/Kvasir-SEG/cju45v0pungu40871acnwtmu5.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju45v0pungu40871acnwtmu5.jpg",
+            "width": 606,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 94,
+            "image_path": "./images/Kvasir-SEG/cju1euuc65wm00799m4sjdnnn.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju1euuc65wm00799m4sjdnnn.jpg",
+            "width": 570,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 1964,
+            "image_path": "./images/CVC-ColonDB/70.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/70.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 115,
+            "image_path": "./images/Kvasir-SEG/cju1gi7jlwyld0835cdf6g6qz.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju1gi7jlwyld0835cdf6g6qz.jpg",
+            "width": 611,
+            "height": 529,
+            "type": "sessile"
+        },
+        {
+            "id": 203,
+            "image_path": "./images/Kvasir-SEG/cju2rlqdnoz9k0993cpjae3x0.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2rlqdnoz9k0993cpjae3x0.jpg",
+            "width": 592,
+            "height": 531,
+            "type": "sessile"
+        },
+        {
+            "id": 1374,
+            "image_path": "./images/CVC-ClinicDB/41.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/41.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 714,
+            "image_path": "./images/Kvasir-SEG/cju7bduyq1rjf08719giru9ho.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju7bduyq1rjf08719giru9ho.jpg",
+            "width": 622,
+            "height": 508,
+            "type": "sessile"
+        },
+        {
+            "id": 523,
+            "image_path": "./images/Kvasir-SEG/cju5eq8c8ck690850vix98hv3.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju5eq8c8ck690850vix98hv3.jpg",
+            "width": 622,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 39,
+            "image_path": "./images/Kvasir-SEG/cju17otoe119u0799nqcbl8n1.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju17otoe119u0799nqcbl8n1.jpg",
+            "width": 519,
+            "height": 511,
+            "type": "sessile"
+        },
+        {
+            "id": 1512,
+            "image_path": "./images/CVC-ClinicDB/5.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/5.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "pedunculated"
+        },
+        {
+            "id": 1321,
+            "image_path": "./images/CVC-ClinicDB/370.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/370.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1020,
+            "image_path": "./images/CVC-ClinicDB/128.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/128.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 90,
+            "image_path": "./images/Kvasir-SEG/cju1egx9pvz2n0988eoy8jp23.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju1egx9pvz2n0988eoy8jp23.jpg",
+            "width": 622,
+            "height": 529,
+            "type": "sessile"
+        },
+        {
+            "id": 511,
+            "image_path": "./images/Kvasir-SEG/cju5ca9hcatkc0801jzwe7tfx.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju5ca9hcatkc0801jzwe7tfx.jpg",
+            "width": 626,
+            "height": 546,
+            "type": "sessile"
+        },
+        {
+            "id": 1570,
+            "image_path": "./images/CVC-ClinicDB/598.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/598.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 991,
+            "image_path": "./images/Kvasir-SEG/ck2395w2mb4vu07480otsu6tw.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/ck2395w2mb4vu07480otsu6tw.jpg",
+            "width": 720,
+            "height": 576,
+            "type": "sessile"
+        },
+        {
+            "id": 1380,
+            "image_path": "./images/CVC-ClinicDB/446.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/446.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 590,
+            "image_path": "./images/Kvasir-SEG/cju5wj0faly5008187n6530af.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju5wj0faly5008187n6530af.jpg",
+            "width": 570,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 2092,
+            "image_path": "./images/NeoPolyp-Small/1b9298e11bb07c70f3701ae6bcec5dd8.jpg",
+            "mask_path": "./images-mask/NeoPolyp-Small/1b9298e11bb07c70f3701ae6bcec5dd8.jpg",
+            "width": 1280,
+            "height": 977,
+            "type": "sessile"
+        },
+        {
+            "id": 1257,
+            "image_path": "./images/CVC-ClinicDB/402.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/402.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 303,
+            "image_path": "./images/Kvasir-SEG/cju302fqq9spc0878rrygyzzz.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju302fqq9spc0878rrygyzzz.jpg",
+            "width": 592,
+            "height": 528,
+            "type": "pedunculated"
+        },
+        {
+            "id": 615,
+            "image_path": "./images/Kvasir-SEG/cju5yhgznmkzb0801cji2vi8j.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju5yhgznmkzb0801cji2vi8j.jpg",
+            "width": 568,
+            "height": 529,
+            "type": "sessile"
+        },
+        {
+            "id": 1264,
+            "image_path": "./images/CVC-ClinicDB/352.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/352.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1001,
+            "image_path": "./images/CVC-ClinicDB/133.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/133.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 230,
+            "image_path": "./images/Kvasir-SEG/cju2ti1du4idn0878giuozonw.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2ti1du4idn0878giuozonw.jpg",
+            "width": 571,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 1774,
+            "image_path": "./images/CVC-ColonDB/223.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/223.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1656,
+            "image_path": "./images/CVC-ColonDB/142.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/142.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "pedunculated"
+        },
+        {
+            "id": 1165,
+            "image_path": "./images/CVC-ClinicDB/254.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/254.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 430,
+            "image_path": "./images/Kvasir-SEG/cju3xzvnzj0hd0755xprz39nj.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju3xzvnzj0hd0755xprz39nj.jpg",
+            "width": 625,
+            "height": 513,
+            "type": "sessile"
+        },
+        {
+            "id": 488,
+            "image_path": "./images/Kvasir-SEG/cju45jpvfn6c809873pv1i34s.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju45jpvfn6c809873pv1i34s.jpg",
+            "width": 593,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 808,
+            "image_path": "./images/Kvasir-SEG/cju83mki1jv5w0817kubxm31r.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju83mki1jv5w0817kubxm31r.jpg",
+            "width": 625,
+            "height": 547,
+            "type": "pedunculated"
+        },
+        {
+            "id": 724,
+            "image_path": "./images/Kvasir-SEG/cju7ctvqn25dy08186g442m1r.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju7ctvqn25dy08186g442m1r.jpg",
+            "width": 622,
+            "height": 531,
+            "type": "pedunculated"
+        },
+        {
+            "id": 1158,
+            "image_path": "./images/CVC-ClinicDB/217.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/217.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 95,
+            "image_path": "./images/Kvasir-SEG/cju1ewnoh5z030855vpex9uzt.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju1ewnoh5z030855vpex9uzt.jpg",
+            "width": 622,
+            "height": 529,
+            "type": "sessile"
+        },
+        {
+            "id": 1268,
+            "image_path": "./images/CVC-ClinicDB/374.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/374.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 568,
+            "image_path": "./images/Kvasir-SEG/cju5u8gz4kj5b07552e2wpkwp.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju5u8gz4kj5b07552e2wpkwp.jpg",
+            "width": 571,
+            "height": 531,
+            "type": "sessile"
+        },
+        {
+            "id": 428,
+            "image_path": "./images/Kvasir-SEG/cju3xvoo2iqlc0817eku2r3wl.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju3xvoo2iqlc0817eku2r3wl.jpg",
+            "width": 446,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 1617,
+            "image_path": "./images/CVC-ColonDB/109.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/109.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 890,
+            "image_path": "./images/Kvasir-SEG/cju892fesoq2g0801n0e0jyia.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju892fesoq2g0801n0e0jyia.jpg",
+            "width": 589,
+            "height": 546,
+            "type": "sessile"
+        },
+        {
+            "id": 1573,
+            "image_path": "./images/CVC-ClinicDB/7.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/7.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "pedunculated"
+        },
+        {
+            "id": 1741,
+            "image_path": "./images/CVC-ColonDB/214.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/214.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1053,
+            "image_path": "./images/CVC-ClinicDB/143.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/143.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1454,
+            "image_path": "./images/CVC-ClinicDB/519.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/519.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 698,
+            "image_path": "./images/Kvasir-SEG/cju7aqkue1i2k09879uzcpt8r.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju7aqkue1i2k09879uzcpt8r.jpg",
+            "width": 621,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 1598,
+            "image_path": "./images/CVC-ClinicDB/582.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/582.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 333,
+            "image_path": "./images/Kvasir-SEG/cju326h4v1gxw08352px40p7r.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju326h4v1gxw08352px40p7r.jpg",
+            "width": 616,
+            "height": 528,
+            "type": "sessile"
+        },
+        {
+            "id": 577,
+            "image_path": "./images/Kvasir-SEG/cju5vbo6jldrt0871jf6f1700.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju5vbo6jldrt0871jf6f1700.jpg",
+            "width": 619,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 86,
+            "image_path": "./images/Kvasir-SEG/cju1dq3x1vgx109889c7wyirg.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju1dq3x1vgx109889c7wyirg.jpg",
+            "width": 617,
+            "height": 513,
+            "type": "pedunculated"
+        },
+        {
+            "id": 791,
+            "image_path": "./images/Kvasir-SEG/cju7fbndk2sl608015ravktum.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju7fbndk2sl608015ravktum.jpg",
+            "width": 569,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 273,
+            "image_path": "./images/Kvasir-SEG/cju2yg5ht8i4p087800js8hp4.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2yg5ht8i4p087800js8hp4.jpg",
+            "width": 626,
+            "height": 546,
+            "type": "sessile"
+        },
+        {
+            "id": 1050,
+            "image_path": "./images/CVC-ClinicDB/137.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/137.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 1956,
+            "image_path": "./images/CVC-ColonDB/72.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/72.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 899,
+            "image_path": "./images/Kvasir-SEG/cju8abobpqbir08189u01huru.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju8abobpqbir08189u01huru.jpg",
+            "width": 626,
+            "height": 547,
+            "type": "sessile"
+        },
+        {
+            "id": 448,
+            "image_path": "./images/Kvasir-SEG/cju40wto5kxwi0755it190f2k.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju40wto5kxwi0755it190f2k.jpg",
+            "width": 1348,
+            "height": 1070,
+            "type": "sessile"
+        },
+        {
+            "id": 277,
+            "image_path": "./images/Kvasir-SEG/cju2ysg748ru80878sp6j0gm0.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2ysg748ru80878sp6j0gm0.jpg",
+            "width": 572,
+            "height": 547,
+            "type": "sessile"
+        },
+        {
+            "id": 1162,
+            "image_path": "./images/CVC-ClinicDB/242.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/242.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 548,
+            "image_path": "./images/Kvasir-SEG/cju5i39mreass0817au8p22zy.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju5i39mreass0817au8p22zy.jpg",
+            "width": 623,
+            "height": 546,
+            "type": "sessile"
+        },
+        {
+            "id": 522,
+            "image_path": "./images/Kvasir-SEG/cju5enq1tcn1i0755hnkon787.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju5enq1tcn1i0755hnkon787.jpg",
+            "width": 626,
+            "height": 547,
+            "type": "sessile"
+        },
+        {
+            "id": 844,
+            "image_path": "./images/Kvasir-SEG/cju85l4yjlops0801fvmnwptf.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju85l4yjlops0801fvmnwptf.jpg",
+            "width": 570,
+            "height": 531,
+            "type": "sessile"
+        },
+        {
+            "id": 1161,
+            "image_path": "./images/CVC-ClinicDB/176.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/176.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 2080,
+            "image_path": "./images/NeoPolyp-Small/117c6599c6dc55c83a46ce2be9800e6c.jpg",
+            "mask_path": "./images-mask/NeoPolyp-Small/117c6599c6dc55c83a46ce2be9800e6c.jpg",
+            "width": 1280,
+            "height": 995,
+            "type": "sessile"
+        },
+        {
+            "id": 1096,
+            "image_path": "./images/CVC-ClinicDB/183.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/183.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 402,
+            "image_path": "./images/Kvasir-SEG/cju3ua8u0g9rg0801uayhdxhu.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju3ua8u0g9rg0801uayhdxhu.jpg",
+            "width": 622,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 1056,
+            "image_path": "./images/CVC-ClinicDB/140.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/140.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 2009,
+            "image_path": "./images/NeoPolyp-Small/051fc90e85d064f787d4be168d951058.jpg",
+            "mask_path": "./images-mask/NeoPolyp-Small/051fc90e85d064f787d4be168d951058.jpg",
+            "width": 1280,
+            "height": 977,
+            "type": "sessile"
+        },
+        {
+            "id": 1785,
+            "image_path": "./images/CVC-ColonDB/26.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/26.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1574,
+            "image_path": "./images/CVC-ClinicDB/85.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/85.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 514,
+            "image_path": "./images/Kvasir-SEG/cju5chrxxawka0871qcj171yz.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju5chrxxawka0871qcj171yz.jpg",
+            "width": 601,
+            "height": 528,
+            "type": "sessile"
+        },
+        {
+            "id": 452,
+            "image_path": "./images/Kvasir-SEG/cju418rckl3ur08012psrx1r1.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju418rckl3ur08012psrx1r1.jpg",
+            "width": 622,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 301,
+            "image_path": "./images/Kvasir-SEG/cju2zy1e49pqk0878t6ncqn12.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2zy1e49pqk0878t6ncqn12.jpg",
+            "width": 622,
+            "height": 529,
+            "type": "sessile"
+        },
+        {
+            "id": 245,
+            "image_path": "./images/Kvasir-SEG/cju2uokeg5jm20799xwgsyz89.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2uokeg5jm20799xwgsyz89.jpg",
+            "width": 570,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 158,
+            "image_path": "./images/Kvasir-SEG/cju2nfnvxzdkd0878399axlco.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2nfnvxzdkd0878399axlco.jpg",
+            "width": 598,
+            "height": 546,
+            "type": "sessile"
+        },
+        {
+            "id": 720,
+            "image_path": "./images/Kvasir-SEG/cju7cp6dw244p0818gncdol4m.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju7cp6dw244p0818gncdol4m.jpg",
+            "width": 622,
+            "height": 530,
+            "type": "sessile"
+        },
+        {
+            "id": 1641,
+            "image_path": "./images/CVC-ColonDB/110.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/110.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1685,
+            "image_path": "./images/CVC-ColonDB/169.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/169.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1865,
+            "image_path": "./images/CVC-ColonDB/324.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/324.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1693,
+            "image_path": "./images/CVC-ColonDB/186.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/186.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1798,
+            "image_path": "./images/CVC-ColonDB/256.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/256.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 1610,
+            "image_path": "./images/CVC-ClinicDB/590.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/590.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "sessile"
+        },
+        {
+            "id": 238,
+            "image_path": "./images/Kvasir-SEG/cju2txjfzv60w098839dcimys.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2txjfzv60w098839dcimys.jpg",
+            "width": 551,
+            "height": 430,
+            "type": "sessile"
+        },
+        {
+            "id": 1644,
+            "image_path": "./images/CVC-ColonDB/135.jpg",
+            "mask_path": "./images-mask/CVC-ColonDB/135.jpg",
+            "width": 574,
+            "height": 500,
+            "type": "sessile"
+        },
+        {
+            "id": 2097,
+            "image_path": "./images/NeoPolyp-Small/2315b4c10e2b0e33fa12bfcd6da15fc6.jpg",
+            "mask_path": "./images-mask/NeoPolyp-Small/2315b4c10e2b0e33fa12bfcd6da15fc6.jpg",
+            "width": 1280,
+            "height": 959,
+            "type": "pedunculated"
+        },
+        {
+            "id": 2037,
+            "image_path": "./images/NeoPolyp-Small/052600f1f93e952886d1697f8af9b550.jpg",
+            "mask_path": "./images-mask/NeoPolyp-Small/052600f1f93e952886d1697f8af9b550.jpg",
+            "width": 1280,
+            "height": 959,
+            "type": "sessile"
+        },
+        {
+            "id": 1004,
+            "image_path": "./images/CVC-ClinicDB/106.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/106.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "pedunculated"
+        },
+        {
+            "id": 1542,
+            "image_path": "./images/CVC-ClinicDB/9.jpg",
+            "mask_path": "./images-mask/CVC-ClinicDB/9.jpg",
+            "width": 384,
+            "height": 288,
+            "type": "pedunculated"
+        },
+        {
+            "id": 160,
+            "image_path": "./images/Kvasir-SEG/cju2nnqrqzp580855z8mhzgd6.jpg",
+            "mask_path": "./images-mask/Kvasir-SEG/cju2nnqrqzp580855z8mhzgd6.jpg",
+            "width": 569,
+            "height": 518,
+            "type": "sessile"
+        }
+    ]
+}
