@@ -1,7 +1,7 @@
-import json, os
 from pathlib import Path
+from utils import load_json, save_json, check_path
 
-def convert_path(path_str, new_root_dir):
+def change_root(path_str, new_root_dir):
     path = Path(path_str)
     new_root_dir = Path(new_root_dir)
 
@@ -11,19 +11,6 @@ def convert_path(path_str, new_root_dir):
 
     return str(new_absolute_path)
 
-def load_json(path):
-    data = None
-    with open(path, 'r') as f:
-        data = json.load(f)
-    return data
-
-def save_json(path, data):
-    with open(path, 'w') as f:
-        json.dump(data, f, indent=4)
-
-def check_path(path):
-    if not os.path.isfile(path):
-        raise ValueError(f'File does not exist: {path}')
 
 def main(json_paths, new_root_dir, disable_checkpath=False):
     for json_path in json_paths:
@@ -41,7 +28,7 @@ def main(json_paths, new_root_dir, disable_checkpath=False):
 
         for new_image in new_images:
             # Convert image path
-            new_image_path = convert_path(
+            new_image_path = change_root(
                 new_image.get('image_path'),
                 new_root_dir
             )
@@ -49,7 +36,7 @@ def main(json_paths, new_root_dir, disable_checkpath=False):
             new_image['image_path'] = new_image_path
 
             # Convert mask path
-            new_mask_path = convert_path(
+            new_mask_path = change_root(
                 new_image.get('mask_path'),
                 new_root_dir
             )
@@ -69,14 +56,19 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(
         description='Replace the root directory of given JSON files.'
     )
-    parser.add_argument('--json', metavar='-j', type=str, nargs='+',
+    parser.add_argument('--json',
+                        type=str,
+                        nargs='+',
                         dest='json_files',
                         help='Input polyp JSON files (can be multiple)')
-    parser.add_argument('--newDir', metavar='-n', type=str,
+    parser.add_argument('--newDir', 
+                        type=str,
                         dest='new_root_dir',
                         help='New root directory to replace with')
-    parser.add_argument('--disable_checkpath', action='store_true',
-                        dest='disable_checkpath', default=False,
+    parser.add_argument('--disable_checkpath',
+                        action='store_true',
+                        dest='disable_checkpath',
+                        default=False,
                         help='Disable checking if the output paths exist')
     
     args = parser.parse_args()
