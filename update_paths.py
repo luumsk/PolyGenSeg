@@ -1,4 +1,4 @@
-import json
+import json, os
 from pathlib import Path
 
 def convert_path(path_str, new_root_dir):
@@ -21,7 +21,11 @@ def save_json(path, data):
     with open(path, 'w') as f:
         json.dump(data, f, indent=4)
 
-def main(json_paths, new_root_dir):
+def check_path(path):
+    if not os.path.isfile(path):
+        raise ValueError(f'File does not exist: {path}')
+
+def main(json_paths, new_root_dir, disable_checkpath=False):
     for json_path in json_paths:
         # Load json
         images = load_json(json_path).get('images')
@@ -37,16 +41,20 @@ def main(json_paths, new_root_dir):
 
         for new_image in new_images:
             # Convert image path
-            new_image['image_path'] = convert_path(
+            new_image_path = convert_path(
                 new_image.get('image_path'),
                 new_root_dir
             )
+            if not disable_checkpath: check_path(new_image_path)
+            new_image['image_path'] = new_image_path
 
             # Convert mask path
-            new_image['mask_path'] = convert_path(
+            new_mask_path = convert_path(
                 new_image.get('mask_path'),
                 new_root_dir
             )
+            if not disable_checkpath: check_path(new_mask_path)
+            new_image['mask_path'] = new_mask_path
 
         # Save new images with converted paths
         save_json(
@@ -67,7 +75,10 @@ if __name__ == '__main__':
     parser.add_argument('--newDir', metavar='-n', type=str,
                         dest='new_root_dir',
                         help='New root directory to replace with')
+    parser.add_argument('--disable_checkpath', action='store_true',
+                        dest='disable_checkpath', default=False,
+                        help='Disable checking if the output paths exist')
     
     args = parser.parse_args()
     
-    main(args.json_files, args.new_root_dir)
+    main(args.json_files, args.new_root_dir, args.disable_checkpath)
